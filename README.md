@@ -33,6 +33,10 @@ helve.live/#nutri
 **Nutri** *ntrshell*	
 Nutrition and supplies tracker.
 
+helve.live/#fund
+**Fund** *fndshell*
+Crowdfunding.
+
 **LIVE WEB ACCESS**
 
 helve.live/#oasis
