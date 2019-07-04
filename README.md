@@ -29,6 +29,24 @@ helve.live/#brief
 **Brief** *brfshell*
 Moment-establishing voice bot assistant.
 
+```
+HELVE HQ_ RITUAL OF RISING SUN
+
+“Good morning Helve Operative mothnode. It is 26th April 2019, weather is cloudy, 20 degrees outside.” 
+“How are you feeling today?”
+“Shall we begin the techmeditation module?”
+“Initiating Techmeditation Module. Loading attunement variables.”
+“Clear your mind” - techmeditation
+“Initiating intent programming module”
+“What should I set the focus to today?”
+“Hydrate”
+
+“Take a break”
+“GitHub commit required”
+“Walk around”
+```
+
+
 helve.live/#nutri
 **Nutri** *ntrshell*	
 Nutrition and supplies tracker.
