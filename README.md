@@ -27,7 +27,7 @@ Data tracker and parser. Tracks and analyses edgshell task, time management and
 
 helve.live/#brief
 **Brief** *brfshell*
-Moment-establishing voice bot assistant.
+Moment-establishing voice bot assistant. Voice assistant for all organization and data purposes. Streamlines the day schedule with no need to check the screens.
 
 ```
 HELVE HQ_ RITUAL OF RISING SUN
