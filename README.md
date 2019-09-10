@@ -35,7 +35,7 @@ helve.live/#brief
 **Brief** *brfshell*
 Moment-establishing voice bot assistant with visuals. Habit Automation System. Voice assistant for all organization and data purposes. Streamlines the day schedule with no need to check the screens. Contains a variety of subprograms designed to carry the data load for you so you can focus on what matters.
 
-**The Rital of the Rising Sun** (Main Program)
+**The Ritual of the Rising Sun** (Main Program)
 
 ```
 THE RITUAL OF THE RISING SUN
