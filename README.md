@@ -2,7 +2,7 @@
 
 # HELVE | Personal Organization Micro webOS 
 
-**HELVE** is a website-based personal organization microOS (POMOS Shell). 
+**HELVE** is a website-based personal organization microOS (POMOS Shell).
 Its purpose is to track, maintain and analyse behavioral productivity of the user while establishing creative project databases available for public and private access alike. It contains sub-shells that act as system functionalities.
 
 Shells
@@ -33,9 +33,9 @@ Data tracker and parser. Tracks and analyses edgshell task, time management and
 
 helve.live/#brief
 **Brief** *brfshell*
-Moment-establishing voice bot assistant with visuals. Voice assistant for all organization and data purposes. Streamlines the day schedule with no need to check the screens. Contains a variety of subprograms designed to carry the data load for you.
+Moment-establishing voice bot assistant with visuals. Habit Automation System. Voice assistant for all organization and data purposes. Streamlines the day schedule with no need to check the screens. Contains a variety of subprograms designed to carry the data load for you so you can focus on what matters.
 
-**The Rital of the Rising Sun**
+**The Rital of the Rising Sun** (Main Program)
 
 ```
 THE RITUAL OF THE RISING SUN
@@ -46,13 +46,13 @@ DEFAULT STATE
 
 Fullscreen looping video of the node network visual with Helve AVR logo on boot up, electronic noise beep as it starts, then a 10 second break. Binaural sounds. First 30 seconds are soothing, relaxing binaurals that go along with the voice greeting you.
 
-INITIATE HQ ROUTINE
+------ INITIATE HQ ROUTINE
 
-"Alexa, initiate HQ or activate Helve HQ."
+"Computer, initiate HQ or activate Helve HQ."
 
 Audio starts playing.
 
-Good morning, Helve Operative mothnode. HQ has been activated. Initiating startup sequence. Relax, take a deep breath... and slowly exhale. Remember, thoughts and emotions are not your actual self. Remember, you're here to visually hack the world.
+"Good morning, Helve Operative mothnode. HQ has been activated. Initiating startup sequence. Relax, take a deep breath... and slowly exhale. Remember, thoughts and emotions are not your actual self. Remember, you're here to visually hack the world."
 
 /// ALTERNATIVE (find a way to incorporate the weather and date)
 
@@ -75,7 +75,7 @@ Read today's Calendar.
 
 15 second break
 
-PHYSICAL TRAINING PROGRAM
+----- PHYSICAL TRAINING SUBPROGRAM
 
 Computer, Initiate Physical Training Subprogram.
 
@@ -137,7 +137,7 @@ Activate: Pushups 2min+
 
 30 min break for shower
 
-GROUNDING PROGRAM
+-------- GROUNDING PROGRAM
 
 Computer, Initiate Grounding Program.
 
