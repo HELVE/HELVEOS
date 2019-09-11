@@ -35,6 +35,14 @@ helve.live/#brief
 **Brief** *brfshell*
 Moment-establishing voice bot assistant with visuals. Habit Automation System. Voice assistant for all organization and data purposes. Streamlines the day schedule with no need to check the screens. Contains a variety of subprograms designed to carry the data load for you so you can focus on what matters.
 
+Routine ideas: 
+- Computer activate Helve AVR workspace (teal color)
+- Computer activate Hitech Crime workspace (red color)
+- Computer activate Kannibal workspace (white color)
+- Computer activate 
+
+Routines:
+
 **The Ritual of the Rising Sun** (Main Program)
 
 ```
@@ -48,7 +56,7 @@ Fullscreen looping video of the node network visual with Helve AVR logo on boot 
 
 ------ INITIATE HQ ROUTINE
 
-"Computer, initiate HQ or activate Helve HQ."
+"Computer, activate Helve HQ."
 
 Audio starts playing.
 
@@ -77,7 +85,7 @@ Read today's Calendar.
 
 ----- PHYSICAL TRAINING SUBPROGRAM
 
-Computer, Initiate Physical Training Subprogram.
+Computer, activate Physical Training Subprogram.
 
 Ready for Phase 1 Physical Training Subprogram?
 
@@ -139,7 +147,7 @@ Activate: Pushups 2min+
 
 -------- GROUNDING PROGRAM
 
-Computer, Initiate Grounding Program.
+Computer, activate Grounding Program.
 
 "What's your latest accomplishment?"
 10sec break
