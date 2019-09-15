@@ -39,9 +39,11 @@ Routine ideas:
 - Computer activate Helve AVR workspace (teal color)
 - Computer activate Hitech Crime workspace (red color)
 - Computer activate Kannibal workspace (white color)
-- Computer what are our core values
-- Computer activate introduction
-- Computer 
+- Computer define our core values
+- Computer activate introduction (guest protocol)
+- Computer list service offers
+- Computer what's the current number of projects in database
+- Computer define our directive protocols
 
 Routines:
 
