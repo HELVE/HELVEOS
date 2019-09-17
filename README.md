@@ -5,6 +5,7 @@
 # HELVE | Personal Organization Micro webOS 
 
 **HELVE** is a website-based personal organization microOS (POMOS Shell).
+
 Its purpose is to track, maintain and analyse behavioral productivity of the user while establishing creative project databases available for public and private access alike. It contains sub-shells that act as system functionalities.
 
 Shells
@@ -46,6 +47,9 @@ Routine ideas:
 - Computer list service offers
 - Computer what's the current number of projects in database
 - Computer define our directive protocols
+- Computer current Operative list
+- Computer
+- Computer
 
 Routines:
 
