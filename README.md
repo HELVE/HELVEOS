@@ -6,7 +6,9 @@
 
 **HELVE** is a website-based personal organization microOS (POMOS Shell).
 
-Its purpose is to track, maintain and analyse behavioral productivity of the user while establishing creative project databases available for public and private access alike. It contains sub-shells that act as system functionalities.
+Its purpose is to track, maintain and analyse behavioral productivity of the user while establishing creative project databases available for public and private access alike. 
+
+It contains sub-shells that act as system functionalities.
 
 Shells
 ----------
