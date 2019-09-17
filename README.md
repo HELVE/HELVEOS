@@ -97,7 +97,7 @@ Report Weather.
 
 Read today's Calendar.
 
-15 second break
+(15 second break)
 
 ----- PHYSICAL TRAINING SUBPROGRAM
 
