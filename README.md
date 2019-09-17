@@ -48,8 +48,8 @@ Routine ideas:
 - Computer what's the current number of projects in database
 - Computer define our directive protocols
 - Computer current Operative list
-- Computer
-- Computer
+- Computer give me the brand uptime
+- Computer initiate/activate lockdown
 
 Routines:
 
