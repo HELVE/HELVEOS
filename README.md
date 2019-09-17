@@ -89,7 +89,7 @@ Selfinitiating The Ritual of the Rising Sun program.
 
 Welcome to the Ritual of the Rising Sun. How are you feeling today?"
 
-5 second break
+(5 second break)
 
 Harness your energy. Here is today's progress timeline data, Operative mothnode. Initiating data scanning and analysis. Please standby.
 
