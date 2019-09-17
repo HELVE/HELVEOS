@@ -34,7 +34,7 @@ Data tracker and parser. Tracks and analyses edgshell task, time management and
 
 # BRIEF - Voice Bot Assistant System
 
-helve.live/#brief
+Shell Placement: helve.live/#brief
 **Brief** *brfshell*
 Moment-establishing voice bot assistant with visuals. Habit Automation System. Voice assistant for all organization and data purposes. Streamlines the day schedule with no need to check the screens. Contains a variety of subprograms designed to carry the data load for you so you can focus on what matters.
 
