@@ -50,6 +50,9 @@ Routine ideas:
 - Computer current Operative list
 - Computer give me the brand uptime
 - Computer initiate/activate lockdown
+- Reminder: Hydration Required (every 3 hours)
+- Reminder: Activate Lockdown Procedures (at the end of the day)
+- Reminder:
 
 Routines:
 
