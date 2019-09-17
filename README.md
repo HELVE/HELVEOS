@@ -83,7 +83,7 @@ Audio starts playing.
 “Good morning Helve Operative mothnode.
 It is 26th April 2019, weather is cloudy, 20 degrees outside."
 
-5 second break
+(5 second break)
 
 Selfinitiating The Ritual of the Rising Sun program.
 
