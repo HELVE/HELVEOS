@@ -45,6 +45,7 @@ Routine ideas:
 - Computer activate Hitech Crime workspace (red color)
 - Computer activate Kannibal workspace (white color)
 - Computer define our core values
+- Computer define our core drive (to visually hack the world)
 - Computer activate introduction (guest protocol)
 - Computer list service offers
 - Computer list active ops
