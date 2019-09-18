@@ -47,6 +47,7 @@ Routine ideas:
 - Computer define our core values
 - Computer activate introduction (guest protocol)
 - Computer list service offers
+- Computer list active ops
 - Computer what's the current number of projects in database
 - Computer define our directive protocols
 - Computer current Operative list
