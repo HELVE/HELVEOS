@@ -56,7 +56,7 @@ Routine ideas:
 - Reminder: Hydration Required (every 3 hours)
 - Reminder: Activate Lockdown Procedures (at the end of the day)
 - Reminder: Nutrition? 2 times a day
-- Reminder: 
+- Reminder: GitHub commit 2 times a day
 
 Routines:
 
