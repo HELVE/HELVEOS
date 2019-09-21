@@ -51,13 +51,13 @@ Routine ideas:
 - Computer list active ops
 - Computer what's the current number of projects in database
 - Computer define our directive protocols
-- Computer current Operative list
+- ACTIVE Computer current Operative list
 - Computer give me the brand uptime
 - Computer initiate/activate lockdown
 - Reminder: Hydration Required (every 3 hours)
 - Reminder: Activate Lockdown Procedures (at the end of the day)
 - Reminder: Nutrition? 2 times a day
-- Reminder: GitHub commit 2 times a day
+- ACTIVE Reminder: Set up GitHub commit 2 times a day
 
 Routines:
 
@@ -80,10 +80,10 @@ Audio starts playing.
 
 "Good morning, Helve Operative mothnode. HQ has been activated. Initiating startup sequence. Relax, take a deep breath... and slowly exhale. Remember, thoughts and emotions are not your actual self. Remember, you're here to visually hack the world."
 
-/// ALTERNATIVE (find a way to incorporate the weather and date)
+"It is 26th April 2019, weather is cloudy, 20 degrees outside."
 
-“Good morning Helve Operative mothnode.
-It is 26th April 2019, weather is cloudy, 20 degrees outside."
+/// Find a way to incorporate the weather and date)
+
 
 (5 second break)
 
