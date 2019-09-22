@@ -42,8 +42,8 @@ Moment-establishing voice bot assistant with visuals. Habit Automation System. V
 
 Routine ideas: 
 - Computer activate Helve AVR workspace (teal color) SITUATION CONTEXT
-- Computer activate Hitech Crime workspace (red color)
-- Computer activate Kannibal workspace (white color)
+- Computer activate Hitech Crime workspace (red color) SITUATION CONTEXT
+- Computer activate Kannibal workspace (white color) SITUATION CONTEXT
 - Computer define our core values
 - Computer define our core drive (to visually hack the world)
 - Computer activate introduction (guest protocol)
