@@ -12,7 +12,7 @@ It contains sub-shells that act as system functionalities.
 
 Shells
 ----------
-Layers of "ozone software".
+Layers of "ozone software". Develop the term ozone software.
 
 # EDGE
 helve.live/#edge
