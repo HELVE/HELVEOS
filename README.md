@@ -2,9 +2,9 @@
 
 ![](helve-banner.png)
 
-# HELVE | Personal Organization Micro webOS 
+# HELVE OS | Personal Organization Micro webOS
 
-**HELVE** is a website-based personal organization microOS (POMOS Shell).
+**HELVE OS** is a website-based personal organization microOS (POMOS Shell).
 
 Its purpose is to track, maintain and analyse behavioral productivity of the user while establishing creative project databases available for public and private access alike. 
 
