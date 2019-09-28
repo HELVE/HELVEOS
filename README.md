@@ -78,14 +78,11 @@ Fullscreen looping video of the node network visual with Helve AVR logo on boot 
 
 Audio starts playing.
 
-"Good morning, Helve Operative. HQ has been activated. Initiating startup sequence. Relax, take a deep breath... and slowly exhale. Remember, thoughts and emotions are not your actual self. Remember, you're here to visually hack the world."
+"Good morning, Helve Operative Mothnode. HQ has been activated. Initiating startup sequence. Relax, take a deep breath... and slowly exhale. Remember, thoughts and emotions are not your actual self. Remember, you're here to visually hack the world."
 
 "It is 26th April 2019, weather is cloudy, 20 degrees outside."
 
 /// Find a way to incorporate the weather and date)
-
-
-(5 second break)
 
 Selfinitiating The Ritual of the Rising Sun program.
 
@@ -93,7 +90,7 @@ Welcome to the Ritual of the Rising Sun. How are you feeling today?"
 
 (5 second break)
 
-Harness your energy. Here is today's progress timeline data, Operative mothnode. Initiating data scanning and analysis. Please standby.
+Harness your energy. Initiating data scanning and analysis. Operative Mothnode, here is today's progress timeline data. Please standby. 
 
 Report Weather.
 
