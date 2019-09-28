@@ -79,7 +79,7 @@ Fullscreen looping video of the node network visual with Helve AVR logo on boot 
 
 > Welcome to "The Ritual of the Rising Sun" Habit Automation System. How are you feeling today?"
 
-(5 second break)
+> (5 second break)
 
 > Harness your energy. Initiating data scanning and analysis. 
 Operative Mothnode, here is today's progress timeline data. Please standby.
@@ -94,31 +94,25 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 ----- PHYSICAL TRAINING SUBPROGRAM
 
-Computer, activate Physical Training Subprogram.
+> Ready for Phase 1 Physical Training Subprogram?
 
-Ready for Phase 1 Physical Training Subprogram?
+> 5 second break
 
-5 second break
+> Phase 1 Physical Training Subprogram active. Initiating serotonine intake. Please prepare, stretch and take your stance.
 
-- Phase 1 Physical Training Subprogram active. Initiating serotonine intake. Please prepare, stretch and take your stance.
+> 20 seconds break
 
-30 seconds break
+If possible - Bella Ciao starts playing.
 
-Bella Ciao starts playing.
+> Let us commence. Activating Diaphragm Breathing Module. 2 minute timer. Take a stance.
 
-Let us commence. Activating Diaphragm Breathing Module. 2 minute timer. Take a stance.
+> Begin.
 
-5 second break
+> 2 min break
 
-Begin.
+> Well done. Activating Wrist Stretching Module. 2 minute timer. Take the stance.
 
-2 min break
-
-Well done. Activating Wrist Stretching Module. 2 minute timer. Take the stance.
-
-5 second break
-
-Begin.
+> Begin.
 
 2 min break
 
