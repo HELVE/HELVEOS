@@ -212,7 +212,7 @@ CIRCLE OF INTENT MODULE
 
 > "Helve HQ is now live and operational. Commence with directive protocol programs."
 
->
+> Remember to commit on GitHub.
 
 PC lights up and animated Helve AVR logo appears on screen.
 
