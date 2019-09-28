@@ -76,25 +76,24 @@ Fullscreen looping video of the node network visual with Helve AVR logo on boot 
 
 "Computer, activate". Helve HQ?
 
-Audio starts playing.
+- "Good morning, Helve Operative Mothnode. HQ has been activated. Initiating startup sequence. Relax, take a deep breath... and slowly exhale. Remember, thoughts and emotions are not your actual self. Remember, you're here to visually hack the world."
 
-"Good morning, Helve Operative Mothnode. HQ has been activated. Initiating startup sequence. Relax, take a deep breath... and slowly exhale. Remember, thoughts and emotions are not your actual self. Remember, you're here to visually hack the world."
+- Wait 5 seconds.
 
-"It is 26th April 2019, weather is cloudy, 20 degrees outside."
+- Selfinitiating The Ritual of the Rising Sun program.
 
-/// Find a way to incorporate the weather and date)
-
-Selfinitiating The Ritual of the Rising Sun program.
-
-Welcome to the Ritual of the Rising Sun. How are you feeling today?"
+- Welcome to the Ritual of the Rising Sun Habit Automation System. How are you feeling today?"
 
 (5 second break)
 
-Harness your energy. Initiating data scanning and analysis. Operative Mothnode, here is today's progress timeline data. Please standby. 
+- Harness your energy. Initiating data scanning and analysis. 
+  Operative Mothnode, here is today's progress timeline data. Please standby. 
 
-Report Weather.
+- Report Weather.
 
-Read today's Calendar.
+- Read today's Calendar.
+
+- Flash News Briefing.
 
 (15 second break)
 
@@ -106,7 +105,7 @@ Ready for Phase 1 Physical Training Subprogram?
 
 5 second break
 
-Phase 1 Physical Training Subprogram active. Initiating serotonine intake. Please prepare, stretch and take your stance.
+- Phase 1 Physical Training Subprogram active. Initiating serotonine intake. Please prepare, stretch and take your stance.
 
 30 seconds break
 
@@ -250,6 +249,14 @@ Alexa, initiate lockdown
 - Protocol Omega Active, Lockdown procedures initiated. Standby.
 - Wait 5 seconds.
 - Procedural status, complete. Sensors fully functional and running. Good night, Helve Operative mothnode. Approach the REM landscapes in peace. 
+
+
+
+
+
+"It is 26th April 2019, weather is cloudy, 20 degrees outside."
+
+/// Find a way to incorporate the weather and date)
 
 ```
 
