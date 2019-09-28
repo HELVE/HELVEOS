@@ -16,7 +16,7 @@ Layers of "ozone software". Develop the term ozone software.
 
 # BRIEF - Voice Bot Assistant System
 
-BRIEF is a fundamental part of the Habit Automation System. It enhances the speed of communication, task management and assignment, note-taking, scheduling, overview analysis of current progress stats etc. Its system is based on the principles guiding Project [Dopamine Trails](https://github.com/HELVE/DOPAMINETRAILS), which helps clarify your core drives, maximizes focus and minimizes friction in getting things done through rewiring the notion of dopamine triggers and using them productively.
+BRIEF is a fundamental part of the Habit Automation System. It enhances the speed of communication, task management and assignment, note-taking, scheduling, overview analysis of current progress stats etc. Its system is based on the principles of Project [Dopamine Trails](https://github.com/HELVE/DOPAMINETRAILS), which helps clarify your core drives, maximizes focus and minimizes friction in getting things done through rewiring the notion of dopamine triggers and using them productively.
 
 Shell Placement: helve.live/#brief
 **Brief** *brfshell*
