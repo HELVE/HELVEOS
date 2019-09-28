@@ -58,6 +58,10 @@ Routine ideas:
 - Reminder: Activate Lockdown Procedures (at the end of the day)
 - Reminder: Nutrition? 2 times a day
 - ACTIVE Reminder: Set up GitHub commit 2 times a day
+- Computer, talk me down.
+> Operative, I need you to know that you're going to be okay.
+
+> Relax, take a deep breath and slowly exhale... Remember, thoughts and emotions are not your actual self. They are scripts running your body based on external factors. No need to attach significance to them.
 
 Routines:
 
