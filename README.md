@@ -72,7 +72,7 @@ Routine ideas:
 
 ## **The Ritual of the Rising Sun** (Main Program)
 
-```
+
 THE RITUAL OF THE RISING SUN
 PROGRAM SCRIPT
 HELVE OS VOICEBOT ASSISTANT
@@ -266,8 +266,6 @@ Alexa, initiate lockdown
 "It is 26th April 2019, weather is cloudy, 20 degrees outside."
 
 /// Find a way to incorporate the weather and date)
-
-```
 
 
 helve.live/#nutri
