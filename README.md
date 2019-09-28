@@ -158,56 +158,62 @@ If possible - Bella Ciao starts playing.
 
 > "Initiating Grounding Program. Please standby."
 
-5 sec break
+> 5 sec break
 
 TECHMEDITATION MODULE
-“Initiating Techmeditation Module. Loading animalistic and core drive atunement variables. Standby to achieve balance.”
-3 minutes countdown - prepare
-“Clear your mind”
-1 sec break
-"Blue sky"
-1h meditation with soothing music
+> Initiating Techmeditation Module. Loading animalistic and core drive atunement variables. Standby to achieve balance.”
+
+> 3 minutes countdown - prepare
+> “Clear your mind”
+> 1 sec break
+> "Blue sky"
+> 1h meditation with soothing music
 
 CIRCLE OF INTENT MODULE
-“Initiating Circle of Intent Module.”
+> “Initiating Circle of Intent Module.”
 
-5 sec break
+> 5 sec break
 
-"Please draw 1/4th of a mental circle around you."
-"This is your space of self-intent. Thoughts processes directed inwards will stabilize your existing inner energy and ground your approach to yourself. Think about how you intend to treat yourself."
+> "Please draw 1/4th of a mental circle around you."
+> "This is your space of self-intent. Thoughts processes directed inwards will stabilize your existing inner energy and ground your approach to yourself. Think about how you intend to treat yourself."
 
-3min break
+> 3min break
 
-"Please draw 2/4th of a mental circle around you."
-"This is your space of outward intent. Thought processes directed outward will stabilize your perception of others and create the way forward. Think about how you intend to treat others."
+> "Please draw 2/4th of a mental circle around you."
+> "This is your space of outward intent. Thought processes directed outward will stabilize your perception of others and create the way forward. Think about how you intend to treat others."
 
-3min break
+> 3min break
 
-"Please draw a 3/4th full mental circle around you."
-"This is your space of higher intent. Thought processes directed into the void will summon positive energy within you. Think about how you intend to use that energy."
+> "Please draw a 3/4th full mental circle around you."
+> "This is your space of higher intent. Thought processes directed into the void will summon positive energy within you. Think about how you intend to use that energy."
 
-3min break
+> 3min break
 
-"Please draw a full mental circle around you."
-"This is your space of general intent. Thought processes now need to be grounded on the observed reality and will gain initial direction and create a spark of willpower due to clarity. Think about your day's overall intent and focus."
+> "Please draw a full mental circle around you."
+> "This is your space of general intent. Thought processes now need to be grounded on the observed reality and will gain initial direction and create a spark of willpower due to clarity. Think about your day's overall intent and focus."
 
 ## Computer, initiate medbay [INCOMPLETE]
 
-Computer, Initiate Medbay Program.
+> Computer, Initiate Medbay Program.
 
-“Initiating Medbay Program.”
+> “Initiating Medbay Program.”
 
-"Take your self-care
-“Hydrate”
-“Take a break”
-“GitHub commit required”
-“Walk around”
-"Medbay Attention Required. Take your resistants."
+> "Medbay Attention Required. Take your resistants."
 
-What should I set the focus to today?”
+> "Take your self-care
+> “Hydrate”
+> “Take a break”
+> “GitHub commit required”
+> “Walk around”
 
-ENDING
-- "Helve HQ is now live and operational. Commence with directive protocol programs."
+> What should I set the focus to today?
+
+### Brief Ending
+
+> "Helve HQ is now live and operational. Commence with directive protocol programs."
+
+>
+
 PC lights up and animated Helve AVR logo appears on screen.
 
 mobile alarms with custom recordings with the same voice
@@ -216,33 +222,9 @@ Show query: program sequence. Sequencing: shave, shower, breakfast, tea, CBD. (.
 After the voice starts the music, it turns to more uplifting, energetic, focus-driven beat.
 The music plays for about an hour.
 
-- Flash News Briefing.
+### Flash News Briefing.
 
-
-HELVE HQ_ RITUAL OF RISING SUN
-
-“Good morning Helve Operative mothnode. It is 26th April 2019, weather is cloudy, 20 degrees outside.” 
-“How are you feeling today?”
-“Shall we begin the techmeditation module?”
-
-“Initiating intent programming module”
-“What should I set the focus to today?”
-“Hydrate”
-
-“Take a break”
-“GitHub commit required”
-“Walk around”
-
-
-
-
-
-
-"It is 26th April 2019, weather is cloudy, 20 degrees outside."
-
-/// Find a way to incorporate the weather and date)
-
-
+x
 
 ## Emergency Commands
 
@@ -263,6 +245,29 @@ Automated at 8PM. Later on it will involve using smart devices to adjust everyth
 > Relax, take a deep breath and slowly exhale... Remember, thoughts and emotions are not your actual self. They are scripts running your body based on external factors. No need to attach significance to them.
 
 > Now, take a step back into your core self and see the bigger picture.
+
+
+---
+
+"It is 26th April 2019, weather is cloudy, 20 degrees outside."
+
+/// Find a way to incorporate the weather and date)
+
+HELVE HQ_ RITUAL OF RISING SUN
+
+“Good morning Helve Operative mothnode. It is 26th April 2019, weather is cloudy, 20 degrees outside.” 
+“How are you feeling today?”
+“Shall we begin the techmeditation module?”
+
+“Initiating intent programming module”
+“What should I set the focus to today?”
+“Hydrate”
+
+“Take a break”
+“GitHub commit required”
+“Walk around”
+
+---
 
 
 helve.live/#nutri
