@@ -198,6 +198,17 @@ CIRCLE OF INTENT MODULE
 
 > "Medbay Attention Required. Take your resistants."
 
+mobile alarms with custom recordings with the same voice
+
+> "Initiate Nutrition Program"
+
+> Computer, query sequence.
+
+> Sequencing: shave, shower, breakfast, tea, CBD. (...) Starting soothing music to accomodate the mind to rebirth.
+
+After the voice starts the music, it turns to more uplifting, energetic, focus-driven beat.
+The music plays for about an hour.
+
 > "Take your self-care
 > “Hydrate”
 > “Take a break”
@@ -211,12 +222,6 @@ CIRCLE OF INTENT MODULE
 > "Helve HQ is now live and operational. Commence with directive protocol programs."
 
 PC lights up and animated Helve AVR logo appears on screen.
-
-mobile alarms with custom recordings with the same voice
-"Initiate Nutrition Program"
-Show query: program sequence. Sequencing: shave, shower, breakfast, tea, CBD. (...) Starting soothing music to accomodate the mind to rebirth."
-After the voice starts the music, it turns to more uplifting, energetic, focus-driven beat.
-The music plays for about an hour.
 
 ### Flash News Briefing.
 
