@@ -58,16 +58,19 @@ Routine ideas:
 - Reminder: Activate Lockdown Procedures (at the end of the day)
 - Reminder: Nutrition? 2 times a day
 - ACTIVE Reminder: Set up GitHub commit 2 times a day
-- Computer, talk me down.
+
+### Computer, talk me down [COMPLETE]
+
 > Operative, I need you to know that you're going to be okay.
 
 > Relax, take a deep breath and slowly exhale... Remember, thoughts and emotions are not your actual self. They are scripts running your body based on external factors. No need to attach significance to them.
 
 > Now, take a step back into your core self and see the bigger picture.
 
-Routines:
 
-**The Ritual of the Rising Sun** (Main Program)
+# Routines:
+
+## **The Ritual of the Rising Sun** (Main Program)
 
 ```
 THE RITUAL OF THE RISING SUN
