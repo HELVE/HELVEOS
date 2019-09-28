@@ -278,24 +278,33 @@ helve.live/#grip
 **Grip** *grpshell*	
 Graphical interface of HELVE. It binds the sub-shells together.
 
+---
+
 # LINE
 helve.live/#line
 **Line** *linshell*
 Displays & analyses various data relating to passage of time through a multi-linear data timeline.
+
+---
 
 # POINT
 helve.live/#point
 **Point** *pntshell*
 Data tracker and parser. Tracks and analyses edgshell task, time management and categorization input, *linshell* time stamps and event points.
 
+---
 
 helve.live/#nutri
 **Nutri** *ntrshell*	
 Nutrition and supplies tracker.
 
+---
+
 helve.live/#fund
 **Fund** *fndshell*
 Crowdfunding.
+
+---
 
 **LIVE WEB ACCESS**
 
