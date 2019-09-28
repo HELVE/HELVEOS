@@ -63,7 +63,7 @@ Routine ideas:
 
 PROGRAM SCRIPT / HELVE OS VOICEBOT ASSISTANT
 
-DEFAULT SILENT STATE
+### DEFAULT SILENT STATE
 
 Fullscreen looping video of the node network visual with Helve AVR logo on boot up, electronic noise beep as it starts, then a 10 second break. Binaural sounds. First 30 seconds are soothing, relaxing binaurals that go along with the voice greeting you.
 
