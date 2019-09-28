@@ -67,7 +67,7 @@ PROGRAM SCRIPT / HELVE OS VOICEBOT ASSISTANT
 
 Fullscreen looping video of the node network visual with Helve AVR logo on boot up, electronic noise beep as it starts, then a 10 second break. Binaural sounds. First 30 seconds are soothing, relaxing binaurals that go along with the voice greeting you.
 
-### Computer, activate HQ program / activate HQ / activate [INCOMPLETE]
+### PSYOPS: Computer, activate HQ program / activate HQ / activate [INCOMPLETE]
 
 > Good morning, Helve Operative Mothnode. HQ has been activated. Initiating startup sequence. Relax, take a deep breath... and slowly exhale. Remember, thoughts and emotions are not your actual self. Remember, you're here to visually hack the world.
 
@@ -88,7 +88,7 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > 10 second break
 
-### Computer, initiate physical training program / activate physical / physical [INCOMPLETE]
+### PSYOPS: Computer, initiate physical training program / activate physical / physical [INCOMPLETE]
 
 ----- PHYSICAL TRAINING SUBPROGRAM
 
@@ -144,7 +144,7 @@ If possible - Bella Ciao starts playing.
 
 > 30 min break for shower
 
-### Computer, initiate grounding program / grounding [INCOMPLETE]
+### PSYOPS: Computer, initiate grounding program / grounding [INCOMPLETE]
 
 > What's your latest accomplishment?
 
@@ -190,7 +190,7 @@ CIRCLE OF INTENT MODULE
 > "Please draw a full mental circle around you."
 > "This is your space of general intent. Thought processes now need to be grounded on the observed reality and will gain initial direction and create a spark of willpower due to clarity. Think about your day's overall intent and focus."
 
-## Computer, initiate medbay [INCOMPLETE]
+## PSYOPS: Computer, initiate medbay [INCOMPLETE]
 
 > Computer, Initiate Medbay Program.
 
@@ -229,9 +229,9 @@ x
 
 ## Emergency Commands
 
-### Computer, lock it up / initiate lockdown [COMPLETE]
+### CONOPS: Computer, lock it up / initiate lockdown [COMPLETE]
 
-Automated at 8PM. Later on it will involve using smart devices to adjust everything around the HQ.
+Control operations. Automated at 8PM. Later on it will involve using smart devices to adjust everything around the HQ.
 
 > Protocol Omega Active, Lockdown procedures initiated. Standby.
 
@@ -241,7 +241,7 @@ Remember to commit on GitHub?
 
 > Procedural status, complete. Sensors fully functional and running. Good night, Helve Operative mothnode. Approach the REM landscapes in peace. 
 
-### Computer, talk me down [COMPLETE]
+### PSYOPS: Computer, talk me down [COMPLETE]
 
 > Operative, I need you to know that you're going to be okay.
 
