@@ -78,7 +78,7 @@ Fullscreen looping video of the node network visual with Helve AVR logo on boot 
 
 Audio starts playing.
 
-"Good morning, Helve Operative mothnode. HQ has been activated. Initiating startup sequence. Relax, take a deep breath... and slowly exhale. Remember, thoughts and emotions are not your actual self. Remember, you're here to visually hack the world."
+"Good morning, Helve Operative. HQ has been activated. Initiating startup sequence. Relax, take a deep breath... and slowly exhale. Remember, thoughts and emotions are not your actual self. Remember, you're here to visually hack the world."
 
 "It is 26th April 2019, weather is cloudy, 20 degrees outside."
 
