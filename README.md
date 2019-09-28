@@ -59,16 +59,9 @@ Routine ideas:
 - Reminder: Nutrition? 2 times a day
 - ACTIVE Reminder: Set up GitHub commit 2 times a day
 
-### Computer, talk me down [COMPLETE]
-
-> Operative, I need you to know that you're going to be okay.
-
-> Relax, take a deep breath and slowly exhale... Remember, thoughts and emotions are not your actual self. They are scripts running your body based on external factors. No need to attach significance to them.
-
-> Now, take a step back into your core self and see the bigger picture.
 
 
-# Routines:
+### Computer, activate
 
 ## **The Ritual of the Rising Sun** (Main Program)
 
@@ -261,11 +254,21 @@ Alexa, initiate lockdown
 
 
 
-
-
 "It is 26th April 2019, weather is cloudy, 20 degrees outside."
 
 /// Find a way to incorporate the weather and date)
+
+
+
+## Emergency Commands
+
+### Computer, talk me down [COMPLETE]
+
+> Operative, I need you to know that you're going to be okay.
+
+> Relax, take a deep breath and slowly exhale... Remember, thoughts and emotions are not your actual self. They are scripts running your body based on external factors. No need to attach significance to them.
+
+> Now, take a step back into your core self and see the bigger picture.
 
 
 helve.live/#nutri
