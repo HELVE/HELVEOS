@@ -59,13 +59,11 @@ Routine ideas:
 - Reminder: Nutrition? 2 times a day
 - ACTIVE Reminder: Set up GitHub commit 2 times a day
 
-## The Ritual of the Rising Sun (Main Program)
+## THE RITUAL OF THE RISING SUN (Main Program)
 
-THE RITUAL OF THE RISING SUN
-PROGRAM SCRIPT
-HELVE OS VOICEBOT ASSISTANT
+PROGRAM SCRIPT / HELVE OS VOICEBOT ASSISTANT
 
-DEFAULT STATE
+DEFAULT SILENT STATE
 
 Fullscreen looping video of the node network visual with Helve AVR logo on boot up, electronic noise beep as it starts, then a 10 second break. Binaural sounds. First 30 seconds are soothing, relaxing binaurals that go along with the voice greeting you.
 
@@ -88,7 +86,7 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > Read today's Calendar.
 
-> 15 second break
+> 10 second break
 
 ### Computer, initiate physical training program / activate physical / physical [INCOMPLETE]
 
