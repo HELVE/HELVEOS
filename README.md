@@ -114,39 +114,37 @@ If possible - Bella Ciao starts playing.
 
 > Begin.
 
-2 min break
+> 2 min break
 
-Good job. Activating Shoulder Circling Module. 2 minute timer. Take the stance.
+> Good job. Activating Shoulder Circling Module. 2 minute timer. Take the stance.
 
-5 second break
+> Begin.
 
-Begin.
+> 2 min break
 
-2 min break
+> Nailed it. Activating T Balance Right. 3 minute timer. Take the stance.
 
-Nailed it. Activating T Balance Right. 3 minute timer. Take the stance.
+> 5 second break
 
-5 second break
+> Begin.
 
-Begin.
+> 2 min break
 
-2 min break
+> Activate: T-Balance Right 3 min
 
-Activate: T-Balance Right 3 min
+> Activate: T-Balance Left 3 min
 
-Activate: T-Balance Left 3 min
+> Activate: V-Bending 4 min
 
-Activate: V-Bending 4 min
+> Activate: Planking 4 min
 
-Activate: Planking 4 min
+> Activate: Side-planking Right 4min
 
-Activate: Side-planking Right 4min
+> Activate: Side-planking Left 4min
 
-Activate: Side-planking Left 4min
+> Activate: Pushups 2min+
 
-Activate: Pushups 2min+
-
-30 min break for shower
+> 30 min break for shower
 
 ### Computer, initiate grounding program / grounding [INCOMPLETE]
 
