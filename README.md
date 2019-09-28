@@ -249,7 +249,6 @@ Remember to commit on GitHub?
 
 > Now, take a step back into your core self and see the bigger picture.
 
-
 ---
 
 "It is 26th April 2019, weather is cloudy, 20 degrees outside."
