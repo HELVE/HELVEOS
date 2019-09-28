@@ -14,26 +14,6 @@ Shells
 ----------
 Layers of "ozone software". Develop the term ozone software.
 
-# EDGE
-helve.live/#edge
-**Edge** *edgshell*	
-Project database. States: Open (Void), Active (Ascension), Release (Fulfilment).
-
-# GRIP
-helve.live/#grip
-**Grip** *grpshell*	
-Graphical interface of HELVE. It binds the sub-shells together.
-
-# LINE
-helve.live/#line
-**Line** *linshell*
-Displays & analyses various data relating to passage of time through a multi-linear data timeline.
-
-# POINT
-helve.live/#point
-**Point** *pntshell*
-Data tracker and parser. Tracks and analyses edgshell task, time management and categorization input, *linshell* time stamps and event points.
-
 # BRIEF - Voice Bot Assistant System
 
 Shell Placement: helve.live/#brief
@@ -285,6 +265,28 @@ HELVE HQ_ RITUAL OF RISING SUN
 “Walk around”
 
 ---
+
+# EDGE
+helve.live/#edge
+**Edge** *edgshell*	
+Project database. States: Open (Void), Active (Ascension), Release (Fulfilment).
+
+---
+
+# GRIP
+helve.live/#grip
+**Grip** *grpshell*	
+Graphical interface of HELVE. It binds the sub-shells together.
+
+# LINE
+helve.live/#line
+**Line** *linshell*
+Displays & analyses various data relating to passage of time through a multi-linear data timeline.
+
+# POINT
+helve.live/#point
+**Point** *pntshell*
+Data tracker and parser. Tracks and analyses edgshell task, time management and categorization input, *linshell* time stamps and event points.
 
 
 helve.live/#nutri
