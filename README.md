@@ -249,6 +249,20 @@ Remember to commit on GitHub?
 
 > Now, take a step back into your core self and see the bigger picture.
 
+## Misc Commands
+
+> Computer, rap playlist.
+
+Spotify Thug Mood playlist.
+
+> Computer, metal playlist.
+
+Spotify Aggro Mood playlist.
+
+> Computer, smooth playlist.
+
+Spotify Smooth Moood playlist.
+
 ---
 
 "It is 26th April 2019, weather is cloudy, 20 degrees outside."
