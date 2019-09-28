@@ -74,7 +74,7 @@ Fullscreen looping video of the node network visual with Helve AVR logo on boot 
 
 ------ INITIATE HQ ROUTINE
 
-"Computer, activate Helve HQ."
+"Computer, activate". Helve HQ?
 
 Audio starts playing.
 
@@ -244,6 +244,12 @@ HELVE HQ_ RITUAL OF RISING SUN
 “Take a break”
 “GitHub commit required”
 “Walk around”
+
+Alexa, initiate lockdown
+
+- Protocol Omega Active, Lockdown procedures initiated. Standby.
+- Wait 5 seconds.
+- Procedural status, complete. Sensors fully functional and running. Good night, Helve Operative mothnode. Approach the REM landscapes in peace. 
 
 ```
 
