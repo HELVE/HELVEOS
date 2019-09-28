@@ -246,11 +246,8 @@ HELVE HQ_ RITUAL OF RISING SUN
 “GitHub commit required”
 “Walk around”
 
-Alexa, initiate lockdown
 
-- Protocol Omega Active, Lockdown procedures initiated. Standby.
-- Wait 5 seconds.
-- Procedural status, complete. Sensors fully functional and running. Good night, Helve Operative mothnode. Approach the REM landscapes in peace. 
+
 
 
 
@@ -261,6 +258,16 @@ Alexa, initiate lockdown
 
 
 ## Emergency Commands
+
+### Computer, lock it up / initiate lockdown [COMPLETE]
+
+Automated at 8PM. Later on it will involve using smart devices to adjust everything around the HQ.
+
+> Protocol Omega Active, Lockdown procedures initiated. Standby.
+
+> Wait 5 seconds.
+
+> Procedural status, complete. Sensors fully functional and running. Good night, Helve Operative mothnode. Approach the REM landscapes in peace. 
 
 ### Computer, talk me down [COMPLETE]
 
