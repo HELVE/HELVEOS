@@ -63,7 +63,7 @@ Routine ideas:
 
 > Relax, take a deep breath and slowly exhale... Remember, thoughts and emotions are not your actual self. They are scripts running your body based on external factors. No need to attach significance to them.
 
-> Now, take a mental step back to your core self and see the bigger picture.
+> Now, take a step back into your core self and see the bigger picture.
 
 Routines:
 
