@@ -80,20 +80,18 @@ Fullscreen looping video of the node network visual with Helve AVR logo on boot 
 
 - Wait 5 seconds.
 
-- Selfinitiating The Ritual of the Rising Sun program.
+- Selfinitiating "The Ritual of the Rising Sun" program.
 
-- Welcome to the Ritual of the Rising Sun Habit Automation System. How are you feeling today?"
+- Welcome to "The Ritual of the Rising Sun" Habit Automation System. How are you feeling today?"
 
 (5 second break)
 
 - Harness your energy. Initiating data scanning and analysis. 
-  Operative Mothnode, here is today's progress timeline data. Please standby. 
+  Operative Mothnode, here is today's progress timeline data. Please standby.
 
 - Report Weather.
 
 - Read today's Calendar.
-
-- Flash News Briefing.
 
 (15 second break)
 
@@ -219,7 +217,7 @@ Computer, Initiate Medbay Program.
 What should I set the focus to today?”
 
 ENDING
-"Helve HQ is now live and operational. Commence with directive protocol programs."
+- "Helve HQ is now live and operational. Commence with directive protocol programs."
 PC lights up and animated Helve AVR logo appears on screen.
 
 mobile alarms with custom recordings with the same voice
@@ -227,6 +225,8 @@ mobile alarms with custom recordings with the same voice
 Show query: program sequence. Sequencing: shave, shower, breakfast, tea, CBD. (...) Starting soothing music to accomodate the mind to rebirth."
 After the voice starts the music, it turns to more uplifting, energetic, focus-driven beat.
 The music plays for about an hour.
+
+- Flash News Briefing.
 
 
 HELVE HQ_ RITUAL OF RISING SUN
