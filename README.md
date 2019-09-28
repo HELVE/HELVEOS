@@ -158,7 +158,8 @@ If possible - Bella Ciao starts playing.
 
 > 5 sec break
 
-TECHMEDITATION MODULE
+- TECHMEDITATION MODULE
+
 > Initiating Techmeditation Module. Loading animalistic and core drive atunement variables. Standby to achieve balance.”
 
 > 3 minutes countdown - prepare
