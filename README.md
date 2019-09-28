@@ -59,7 +59,6 @@ Routine ideas:
 - Reminder: Nutrition? 2 times a day
 - ACTIVE Reminder: Set up GitHub commit 2 times a day
 
-
 ## The Ritual of the Rising Sun (Main Program)
 
 THE RITUAL OF THE RISING SUN
@@ -72,24 +71,24 @@ Fullscreen looping video of the node network visual with Helve AVR logo on boot 
 
 ### Computer, activate HQ program / activate HQ / activate [INCOMPLETE]
 
-- "Good morning, Helve Operative Mothnode. HQ has been activated. Initiating startup sequence. Relax, take a deep breath... and slowly exhale. Remember, thoughts and emotions are not your actual self. Remember, you're here to visually hack the world."
+> Good morning, Helve Operative Mothnode. HQ has been activated. Initiating startup sequence. Relax, take a deep breath... and slowly exhale. Remember, thoughts and emotions are not your actual self. Remember, you're here to visually hack the world.
 
-- Wait 5 seconds.
+> Wait 5 seconds.
 
-- Selfinitiating "The Ritual of the Rising Sun" program.
+> Selfinitiating "The Ritual of the Rising Sun" program.
 
-- Welcome to "The Ritual of the Rising Sun" Habit Automation System. How are you feeling today?"
+> Welcome to "The Ritual of the Rising Sun" Habit Automation System. How are you feeling today?"
 
 (5 second break)
 
-- Harness your energy. Initiating data scanning and analysis. 
-  Operative Mothnode, here is today's progress timeline data. Please standby.
+> Harness your energy. Initiating data scanning and analysis. 
+Operative Mothnode, here is today's progress timeline data. Please standby.
 
-- Report Weather.
+> Report Weather.
 
-- Read today's Calendar.
+> Read today's Calendar.
 
-(15 second break)
+> 15 second break
 
 ### Computer, initiate physical training program / activate physical / physical [INCOMPLETE]
 
