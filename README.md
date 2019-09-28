@@ -60,11 +60,7 @@ Routine ideas:
 - ACTIVE Reminder: Set up GitHub commit 2 times a day
 
 
-
-### Computer, activate
-
-## **The Ritual of the Rising Sun** (Main Program)
-
+## The Ritual of the Rising Sun (Main Program)
 
 THE RITUAL OF THE RISING SUN
 PROGRAM SCRIPT
@@ -74,9 +70,7 @@ DEFAULT STATE
 
 Fullscreen looping video of the node network visual with Helve AVR logo on boot up, electronic noise beep as it starts, then a 10 second break. Binaural sounds. First 30 seconds are soothing, relaxing binaurals that go along with the voice greeting you.
 
------- INITIATE HQ ROUTINE
-
-"Computer, activate". Helve HQ?
+### Computer, activate HQ program / activate HQ / activate [INCOMPLETE]
 
 - "Good morning, Helve Operative Mothnode. HQ has been activated. Initiating startup sequence. Relax, take a deep breath... and slowly exhale. Remember, thoughts and emotions are not your actual self. Remember, you're here to visually hack the world."
 
@@ -97,6 +91,8 @@ Fullscreen looping video of the node network visual with Helve AVR logo on boot 
 
 (15 second break)
 
+### Computer, initiate physical training program / activate physical / physical [INCOMPLETE]
+
 ----- PHYSICAL TRAINING SUBPROGRAM
 
 Computer, activate Physical Training Subprogram.
@@ -111,7 +107,7 @@ Ready for Phase 1 Physical Training Subprogram?
 
 Bella Ciao starts playing.
 
-Let us commence. Activating Diaphragm Breathing. 2 minute timer. Take a stance.
+Let us commence. Activating Diaphragm Breathing Module. 2 minute timer. Take a stance.
 
 5 second break
 
@@ -119,7 +115,7 @@ Begin.
 
 2 min break
 
-Well done. Activating Wrist Stretching. 2 minute timer. Take the stance.
+Well done. Activating Wrist Stretching Module. 2 minute timer. Take the stance.
 
 5 second break
 
@@ -127,7 +123,7 @@ Begin.
 
 2 min break
 
-Good job. Activating Shoulder Circling. 2 minute timer. Take the stance.
+Good job. Activating Shoulder Circling Module. 2 minute timer. Take the stance.
 
 5 second break
 
@@ -159,22 +155,22 @@ Activate: Pushups 2min+
 
 30 min break for shower
 
--------- GROUNDING PROGRAM
+### Computer, initiate grounding program / grounding [INCOMPLETE]
 
-Computer, activate Grounding Program.
+> What's your latest accomplishment?
 
-"What's your latest accomplishment?"
-10sec break
-"Well done Operative, keep going. Let's ground you for a good start of the day, shall we?.”
+> 10sec break
 
-1 second break
+> Well done Operative, keep going. Let's ground you for a good start of the day, shall we?.
 
-"Initiating Grounding Program. Please standby."
+> 1 second break
+
+> "Initiating Grounding Program. Please standby."
 
 5 sec break
 
 TECHMEDITATION MODULE
-“Initiating Techmeditation Module. Loading rational and animalistic atunement variables.”
+“Initiating Techmeditation Module. Loading animalistic and core drive atunement variables. Standby to achieve balance.”
 3 minutes countdown - prepare
 “Clear your mind”
 1 sec break
@@ -204,7 +200,8 @@ CIRCLE OF INTENT MODULE
 "Please draw a full mental circle around you."
 "This is your space of general intent. Thought processes now need to be grounded on the observed reality and will gain initial direction and create a spark of willpower due to clarity. Think about your day's overall intent and focus."
 
-MEDBAY PROGRAM
+## Computer, initiate medbay [INCOMPLETE]
+
 Computer, Initiate Medbay Program.
 
 “Initiating Medbay Program.”
@@ -236,8 +233,7 @@ HELVE HQ_ RITUAL OF RISING SUN
 “Good morning Helve Operative mothnode. It is 26th April 2019, weather is cloudy, 20 degrees outside.” 
 “How are you feeling today?”
 “Shall we begin the techmeditation module?”
-“Initiating Techmeditation Module. Loading attunement variables.”
-“Clear your mind” - techmeditation
+
 “Initiating intent programming module”
 “What should I set the focus to today?”
 “Hydrate”
