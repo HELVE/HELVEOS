@@ -16,11 +16,15 @@ Layers of "ozone software". Develop the term ozone software.
 
 # BRIEF - Voice Bot Assistant System
 
-BRIEF is a fundamental part of the Habit Automation System. It enhances the speed of communication, task management and assignment, note-taking, scheduling, overview analysis of current progress stats etc. Its system is based on the principles of Project [Dopamine Trails](https://github.com/HELVE/DOPAMINETRAILS), which helps clarify your core drives, maximizes focus and minimizes friction in getting things done through rewiring the notion of dopamine triggers and using them productively.
+**Brief** *brfshell*
 
 Shell Placement: helve.live/#brief
-**Brief** *brfshell*
+
+**Brief** is a fundamental part of the *Habit Automation System*. It enhances speed of communication, task management and assignment, note-taking, scheduling, overview analysis of current project progress and status etc. **Brief** HAB is based on the principles of [Project Dopamine Trails](https://github.com/HELVE/DOPAMINETRAILS), which helps clarify your core drives, maximizes focus and minimizes friction in getting things done through rewiring the notion of dopamine triggers and using them productively.
+
 Moment-establishing voice bot assistant with visuals. Habit Automation System. Voice assistant for all organization and data purposes. Streamlines the day schedule with no need to check the screens. Contains a variety of subprograms designed to carry the data load for you so you can focus on what matters.
+
+
 
 PROGRAM SCRIPT / HELVE OS VOICEBOT ASSISTANT
 
@@ -34,7 +38,7 @@ Core Drives > Protocols > Operations > Programs > Modules
 
 - PHY_OPS - physical operations (?)  <- merge this one with psychological since it's just as much external.
 
-## THE RITUAL OF THE RISING SUN (Main Program)
+### THE RITUAL OF THE RISING SUN (Main Program)
 
 ### DEFAULT SILENT STATE
 
