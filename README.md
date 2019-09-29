@@ -33,7 +33,7 @@ Moment-establishing voice bot assistant with visuals. Habit Automation System. V
 - Computer list active ops
 - Computer what's the current number of projects in database
 - Computer define our directive protocols
-- ACTIVE Computer current Operative list
+- Computer, current Operative list
 - Computer give me the brand uptime
 - Computer initiate/activate lockdown
 - Reminder: Hydration Required (every 3 hours)
