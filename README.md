@@ -26,11 +26,11 @@ Moment-establishing voice bot assistant with visuals. Habit Automation System. V
 
 PROGRAM SCRIPT / HELVE OS VOICEBOT ASSISTANT
 
-- Psyops - psychological operations.
+- PSY_OPS - psychological operations.
 
-- Conops - control operations.
+- CON_OPS - control operations.
 
-- Phyops - physical operations (?)  <- merge this one with psychological since it's just as much external.
+- PHY_OPS - physical operations (?)  <- merge this one with psychological since it's just as much external.
 
 - 
 
