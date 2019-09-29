@@ -4,11 +4,11 @@
 
 # HELVE OS | Personal Organization Micro webOS
 
-**HELVE OS** is a website/server-based personal organization microOS (POMOS Shell). Habit Automation System with multiple systems working in unison. 
+**HELVE OS** is a website/server-based personal organization microOS (POMOS Shell). Habit Automation System with multiple programs working in unison. 
 
-Its purpose is to track, maintain and analyse behavioral productivity of the user while establishing creative project databases available for public and private access alike. 
+Its purpose is to track, maintain and analyse behavioral productivity of the user while establishing creative project databases available for public and private access alike.
 
-It contains sub-shells that act as system functionalities.
+It contains (sub-)shells that act as system functionalities.
 
 Shells
 ----------
@@ -24,18 +24,14 @@ Shell Placement: helve.live/#brief
 
 Moment-establishing voice bot assistant with visuals. Habit Automation System. Voice assistant for all organization and data purposes. Streamlines the day schedule with no need to check the screens. Contains a variety of subprograms designed to carry the data load for you so you can focus on what matters.
 
+## PROGRAM SCRIPT / HELVE OS VOICEBOT ASSISTANT
 
-
-PROGRAM SCRIPT / HELVE OS VOICEBOT ASSISTANT
-
-Basic structure: Helve Directive Protocols (Dopamine Optimization Framework) contain Operations, Operations contain Programs, Programs contain Modules.
+Basic structure based on Dopamine Trails: Helve Directive Protocols (Dopamine Optimization Framework) contain Operations (overarching effort loops), Operations contain Programs (specific types of routines that establish habits in certain life aspects over time), Programs contain Modules (narrative structures that help address specific sections of certain Programs).
 
 Core Drives > Protocols > Operations > Programs > Modules
 
 - PSY_OPS - psychological operations.
-
 - CON_OPS - control operations.
-
 - PHY_OPS - physical operations (?)  <- merge this one with psychological since it's just as much external.
 
 ### THE RITUAL OF THE RISING SUN (Main Program)
