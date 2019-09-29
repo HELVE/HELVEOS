@@ -34,7 +34,7 @@ Core Drives > Protocols > Operations > Programs > Modules
 - CON_OPS - control operations.
 - PHY_OPS - physical operations (?)  <- merge this one with psychological since it's just as much external.
 
-### THE RITUAL OF THE RISING SUN (Main Program)
+### THE RITUAL OF THE RISING SUN (Master Program)
 
 **DEFAULT SILENT STATE**
 
