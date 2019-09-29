@@ -26,13 +26,13 @@ PROGRAM SCRIPT / HELVE OS VOICEBOT ASSISTANT
 
 Basic structure: Helve Directive Protocols (Dopamine Optimization Framework) contain Operations, Operations contain Programs, Programs contain Modules.
 
+Core Drives > Protocols > Operations > Programs > Modules
+
 - PSY_OPS - psychological operations.
 
 - CON_OPS - control operations.
 
 - PHY_OPS - physical operations (?)  <- merge this one with psychological since it's just as much external.
-
-
 
 ## THE RITUAL OF THE RISING SUN (Main Program)
 
