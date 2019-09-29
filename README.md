@@ -22,25 +22,6 @@ Shell Placement: helve.live/#brief
 **Brief** *brfshell*
 Moment-establishing voice bot assistant with visuals. Habit Automation System. Voice assistant for all organization and data purposes. Streamlines the day schedule with no need to check the screens. Contains a variety of subprograms designed to carry the data load for you so you can focus on what matters.
 
-**Routine ideas:**
-- Computer activate Helve AVR workspace (teal clr) [SITUATION CONTEXT]
-- Computer activate Hitech Crime workspace (red clr) [SITUATION CONTEXT]
-- Computer activate Kannibal workspace (white clr) [SITUATION CONTEXT]
-- Computer define our core values
-- Computer define our core drive (to visually hack the world)
-- Computer activate introduction (guest protocol)
-- Computer list service offers
-- Computer list active ops
-- Computer what's the current number of projects in database
-- Computer define our directive protocols
-- Computer, current Operative list
-- Computer give me the brand uptime
-- Computer initiate/activate lockdown
-- Reminder: Hydration Required (every 3 hours)
-- Reminder: Activate Lockdown Procedures (at the end of the day)
-- Reminder: Nutrition? 2 times a day
-- ACTIVE Reminder: Set up GitHub commit 2 times a day
-
 ## THE RITUAL OF THE RISING SUN (Main Program)
 
 PROGRAM SCRIPT / HELVE OS VOICEBOT ASSISTANT
@@ -245,6 +226,25 @@ Spotify Aggro Mood playlist.
 > Computer, smooth playlist.
 
 Spotify Smooth Moood playlist.
+
+**Routine ideas:**
+- Computer activate Helve AVR workspace (teal clr) [SITUATION CONTEXT]
+- Computer activate Hitech Crime workspace (red clr) [SITUATION CONTEXT]
+- Computer activate Kannibal workspace (white clr) [SITUATION CONTEXT]
+- Computer define our core values
+- Computer define our core drive (to visually hack the world)
+- Computer activate introduction (guest protocol)
+- Computer list service offers
+- Computer list active ops
+- Computer what's the current number of projects in database
+- Computer define our directive protocols
+- Computer, current Operative list
+- Computer give me the brand uptime
+- Computer initiate/activate lockdown
+- Reminder: Hydration Required (every 3 hours)
+- Reminder: Activate Lockdown Procedures (at the end of the day)
+- Reminder: Nutrition? 2 times a day
+- ACTIVE Reminder: Set up GitHub commit 2 times a day
 
 ---
 
