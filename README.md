@@ -53,8 +53,6 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 ### PSYOPS: Computer, initiate physical training program / activate physical / physical [INCOMPLETE]
 
------ PHYSICAL TRAINING SUBPROGRAM
-
 > Ready for Phase 1 Physical Training Subprogram?
 
 > 5 second break
