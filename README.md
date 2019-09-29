@@ -22,9 +22,9 @@ Shell Placement: helve.live/#brief
 **Brief** *brfshell*
 Moment-establishing voice bot assistant with visuals. Habit Automation System. Voice assistant for all organization and data purposes. Streamlines the day schedule with no need to check the screens. Contains a variety of subprograms designed to carry the data load for you so you can focus on what matters.
 
-## THE RITUAL OF THE RISING SUN (Main Program)
-
 PROGRAM SCRIPT / HELVE OS VOICEBOT ASSISTANT
+
+Basic structure: Helve Directive Protocols (Dopamine Optimization Framework) contain Operations, Operations contain Programs, Programs contain Modules.
 
 - PSY_OPS - psychological operations.
 
@@ -32,12 +32,9 @@ PROGRAM SCRIPT / HELVE OS VOICEBOT ASSISTANT
 
 - PHY_OPS - physical operations (?)  <- merge this one with psychological since it's just as much external.
 
-- 
-
-Operations contain programs, programs contain modules.
 
 
-
+## THE RITUAL OF THE RISING SUN (Main Program)
 
 ### DEFAULT SILENT STATE
 
