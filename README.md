@@ -36,11 +36,11 @@ Core Drives > Protocols > Operations > Programs > Modules
 
 ### THE RITUAL OF THE RISING SUN (Main Program)
 
-### DEFAULT SILENT STATE
+**DEFAULT SILENT STATE**
 
 Fullscreen looping video of the node network visual with Helve AVR logo on boot up, electronic noise beep as it starts, then a 10 second break. Binaural sounds. First 30 seconds are soothing, relaxing binaurals that go along with the voice greeting you.
 
-### PSYOPS: Computer, activate HQ program / activate HQ / activate [INCOMPLETE]
+**PSYOPS: Computer, activate HQ program / activate HQ / activate [INCOMPLETE]**
 
 > Good morning, Helve Operative Mothnode. HQ has been activated. Initiating startup sequence. Relax, take a deep breath... and slowly exhale. Remember, thoughts and emotions are not your actual self. Remember, you're here to visually hack the world.
 
@@ -61,7 +61,7 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > 10 second break
 
-### PSYOPS: Computer, initiate physical training program / activate physical / physical [INCOMPLETE]
+**PSYOPS: Computer, initiate physical training program / activate physical / physical [INCOMPLETE]**
 
 > Ready for Phase 1 Physical Training Subprogram?
 
@@ -115,7 +115,7 @@ If possible - Bella Ciao starts playing.
 
 > 30 min break for shower
 
-### PSYOPS: Computer, initiate grounding program / grounding [INCOMPLETE]
+**PSYOPS: Computer, initiate grounding program / grounding [INCOMPLETE]**
 
 > What's your latest accomplishment?
 
@@ -129,7 +129,7 @@ If possible - Bella Ciao starts playing.
 
 > 5 sec break
 
-- TECHMEDITATION MODULE
+- **TECHMEDITATION MODULE**
 
 > Initiating Techmeditation Module. Loading animalistic and core drive atunement variables. Standby to achieve balance.”
 
@@ -139,7 +139,8 @@ If possible - Bella Ciao starts playing.
 > "Blue sky"
 > 1h meditation with soothing music
 
-CIRCLE OF INTENT MODULE
+- **CIRCLE OF INTENT MODULE**
+
 > “Initiating Circle of Intent Module.”
 
 > 5 sec break
@@ -162,7 +163,7 @@ CIRCLE OF INTENT MODULE
 > "Please draw a full mental circle around you."
 > "This is your space of general intent. Thought processes now need to be grounded on the observed reality and will gain initial direction and create a spark of willpower due to clarity. Think about your day's overall intent and focus."
 
-## PSYOPS: Computer, initiate medbay [INCOMPLETE]
+**PSYOPS: Computer, initiate medbay [INCOMPLETE]**
 
 > Computer, Initiate Medbay Program.
 
@@ -189,19 +190,19 @@ The music plays for about an hour.
 
 > What should I set the focus to today?
 
-### Brief Ending
+**Brief Ending**
 
 > "Helve HQ is now live and operational. Commence with directive protocol programs."
 
 PC lights up and animated Helve AVR logo appears on screen.
 
-### Flash News Briefing.
+**Flash News Briefing.**
 
 TechCrunch, Reuters, Science News - examples.
 
-## Emergency Commands
+### Emergency Commands
 
-### CONOPS: Computer, lock it up / initiate lockdown [COMPLETE]
+**CONOPS: Computer, lock it up / initiate lockdown [COMPLETE]**
 
 Control operations. Automated at 8PM. Later on it will involve using smart devices to adjust everything around the HQ.
 
@@ -213,7 +214,7 @@ Remember to commit on GitHub?
 
 > Procedural status, complete. Sensors fully functional and running. Good night, Helve Operative mothnode. Approach the REM landscapes in peace. 
 
-### PSYOPS: Computer, talk me down [COMPLETE]
+**PSYOPS: Computer, talk me down [COMPLETE]**
 
 > Operative, I need you to know that you're going to be okay.
 
@@ -221,7 +222,7 @@ Remember to commit on GitHub?
 
 > Now, take a step back into your core self and see the bigger picture.
 
-## Misc Commands
+### Misc Commands
 
 > Computer, rap playlist.
 
@@ -235,7 +236,8 @@ Spotify Aggro Mood playlist.
 
 Spotify Smooth Moood playlist.
 
-**Routine ideas:**
+### Routine Ideas
+
 - Computer activate Helve AVR workspace (teal clr) [SITUATION CONTEXT]
 - Computer activate Hitech Crime workspace (red clr) [SITUATION CONTEXT]
 - Computer activate Kannibal workspace (white clr) [SITUATION CONTEXT]
@@ -255,8 +257,7 @@ Spotify Smooth Moood playlist.
 - ACTIVE Reminder: Set up GitHub commit 2 times a day
 
 ---
-
-"It is 26th April 2019, weather is cloudy, 20 degrees outside."
+Notes:  "It is 26th April 2019, weather is cloudy, 20 degrees outside."
 
 /// Find a way to incorporate the weather and date)
 
