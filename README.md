@@ -187,7 +187,7 @@ PC lights up and animated Helve AVR logo appears on screen.
 
 ### Flash News Briefing.
 
-x
+TechCrunch, Reuters, Science News - examples.
 
 ## Emergency Commands
 
