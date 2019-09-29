@@ -26,6 +26,10 @@ Moment-establishing voice bot assistant with visuals. Habit Automation System. V
 
 PROGRAM SCRIPT / HELVE OS VOICEBOT ASSISTANT
 
+Psyops - psychological operations.
+Conops - control operations.
+Phyops - physical operations (?)  <- merge this one with psychological since it's just as much external.
+
 ### DEFAULT SILENT STATE
 
 Fullscreen looping video of the node network visual with Helve AVR logo on boot up, electronic noise beep as it starts, then a 10 second break. Binaural sounds. First 30 seconds are soothing, relaxing binaurals that go along with the voice greeting you.
