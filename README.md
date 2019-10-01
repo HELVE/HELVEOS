@@ -202,7 +202,7 @@ TechCrunch, Reuters, Science News - examples.
 
 ### Emergency Commands
 
-**PSYOPS: Voice Bot Check-in Message - Computer, checking in [INCOMPLETE]**
+**PSYOPS: Voice Bot Check-in Message - Computer, checking in / access mainframe [INCOMPLETE]**
 
 > Identity confirmed: Helve Operative mothnode, access granted. Authorization key: x Welcome to mobile Helve HQ!
 
