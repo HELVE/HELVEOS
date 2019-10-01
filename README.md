@@ -230,7 +230,7 @@ Perhaps add: Remember to commit on GitHub?
 
 > Computer, rap playlist.
 
-Spotify Thug Mood playlist.
+Spotify Thug Mood playlist. Requires more custom name?
 
 > Computer, metal playlist.
 
