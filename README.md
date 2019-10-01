@@ -202,6 +202,10 @@ TechCrunch, Reuters, Science News - examples.
 
 ### Emergency Commands
 
+**PSYOPS: Voice Bot Check-in Message - Computer, checking in [INCOMPLETE]**
+
+> Identity confirmed: Helve Operative mothnode, access granted. Authorization key: x Welcome to mobile Helve HQ!
+
 **CONOPS: Computer, lock it up / initiate lockdown [COMPLETE]**
 
 Control operations. Automated at 8PM. Later on it will involve using smart devices to adjust everything around the HQ.
