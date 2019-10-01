@@ -212,7 +212,7 @@ Control operations. Automated at 8PM. Later on it will involve using smart devic
 
 > Protocol Omega Active, Lockdown procedures initiated. Standby.
 
-Remember to commit on GitHub?
+Perhaps add: Remember to commit on GitHub?
 
 > Wait 5 seconds.
 
