@@ -4,11 +4,11 @@
 
 # HELVE OS | Personal Organization Micro webOS
 
-**HELVE OS** is a website/server-based personal organization microOS (POMOS Shell). Habit Automation System with multiple programs working in unison. 
+**HELVE OS** is a website/server-based personal organization microOS (POMOS Master Shell). Habit Automation System with multiple programs working in unison. 
 
 Its purpose is to track, maintain and analyse behavioral productivity of the user while establishing creative project databases available for public and private access alike.
 
-It contains (sub-)shells that act as system functionalities.
+It contains *shells* that act as system functionalities.
 
 Shells
 ----------
