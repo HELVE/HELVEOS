@@ -259,6 +259,7 @@ Spotify Smooth Moood playlist. Requires more custom name?
 - Reminder: Activate Lockdown Procedures (at the end of the day)
 - Reminder: Nutrition? 2 times a day
 - ACTIVE Reminder: Set up GitHub commit 2 times a day
+- Mantra: Please repeat after me. I am  patience. I am compassion. I am wisdom. I am love. I am selfless. Everything that I'm experiencing right now will pass eventually. I am powerful and I deserve every power-filled thing in the universe. Remember that not all the things are directly about you. Often people reflect themselves upon you.
 
 ---
 Notes:  "It is 26th April 2019, weather is cloudy, 20 degrees outside."
