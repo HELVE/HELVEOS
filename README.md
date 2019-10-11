@@ -369,7 +369,7 @@ Crowdfunding.
 
 helve.live/#oasis
 **Oasis** *osishell*
-Live workspace widget.
+Live workspace widget. MIXER CONNECTION
 
 helve.live/#hq
 
