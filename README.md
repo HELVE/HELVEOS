@@ -219,6 +219,8 @@ The music plays for about an hour.
 
 > "Helve HQ is now live and operational. Commence with directive protocol programs. Have a great day!"
 
+> Initiating LiveOps. Up next: Helve Briefing - Directive Protocol Beta [Knowledge]
+
 PC lights up and animated Helve AVR logo appears on screen.
 
 **Flash News Briefing.**
