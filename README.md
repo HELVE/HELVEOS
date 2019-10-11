@@ -67,11 +67,11 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > 5 sec wait
 
-> Phase 1 Physical Training Program active. Initiating serotonine intake. Straighten your posture, relax and take the stance.
+> Phase 1 Physical Training Program active. Initiating serotonine intake. Prepare the tools.
 
 > 20 seconds break /// If possible - Bella Ciao starts playing.
 
-> Let us commence. Activating Diaphragm Breathing Module. 2 minute timer. Take a stance.
+> Let us commence. Activating Diaphragm Breathing Module. 2 minute timer. Straighten your posture, relax and take the stance.
 
 > Begin.
 
