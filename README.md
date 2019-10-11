@@ -61,7 +61,7 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > 10 sec wait
 
-**PSYOPS: Computer, initiate physical training program / activate physical / physical [COMPLETE]**
+**PSYOPS: Computer, initiate physical training program [35MIN] [COMPLETE]**
 
 > Ready for Phase 1 Physical Training Program?
 
@@ -125,7 +125,7 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > 4 min wait
 
-> Module complete. Great effort, keep going. Activating Pushups Module. 4 minute timer. Straighten your posture, relax and take the stance.
+> Module complete. Great effort, keep going. Activating Pushups Module. 2 minute timer. Straighten your posture, relax and take the stance.
 
 > Begin.
 
