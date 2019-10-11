@@ -337,7 +337,7 @@ Graphical interface of HELVE. It binds the sub-shells together.
 
 ---
 
-# LINE
+# LINE/SHELL
 helve.live/#line
 **Line** *linshell*
 Displays & analyses various data relating to passage of time through a multi-linear data timeline.
@@ -351,12 +351,14 @@ Data tracker and parser. Tracks and analyses edgshell task, time management and
 
 ---
 
+# NUTRI/SHELL
 helve.live/#nutri
 **Nutri** *ntrshell*	
 Nutrition and supplies tracker.
 
 ---
 
+# FUND/SHELL
 helve.live/#fund
 **Fund** *fndshell*
 Crowdfunding.
