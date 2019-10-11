@@ -77,41 +77,59 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > 2 min wait
 
-> Well done. Activating Wrist Stretching Module. 2 minute timer. Take the stance.
+> Module complete. Well done. Activating Wrist Stretching Module. 2 minute timer. Straighten your posture, relax and take the stance.
 
 > Begin.
 
 > 2 min wait
 
-> Good job. Activating Shoulder Circling Module. 2 minute timer. Take the stance.
+> Module complete. Good job. Activating Shoulder Circling Module. 2 minute timer. Straighten your posture, relax and take the stance.
 
 > Begin.
 
 > 2 min wait
 
-> Nailed it. Activating T Balance Right Module. 3 minute timer. Take the stance.
+> Module complete. Nailed it. Activating T Balance Right Module. 3 minute timer. Straighten your posture, relax and take the stance.
 
 > Begin.
 
 > 3 min wait
 
-> Let's switch. Activating T Balance Left Module. 3 minute timer. Take the stance.
+> Module complete. Let's switch. Activating T Balance Left Module. 3 minute timer. Straighten your posture, relax and take the stance.
+
+> Begin.
+
+> 3 min wait
+
+> Module complete. Nicely done. Activating V-Bending Module. 4 minute timer. Straighten your posture, relax and take the stance.
+
+> Begin.
+
+> 4 min wait
+
+> Module complete. Time to walk the plank. Activating Planking Module. 4 minute timer. Straighten your posture, relax and take the stance.
+
+> Begin.
+
+> 4 min wait
+
+> Module complete. Let's move to the sides. Activating Side-planking Module Right. 4 minute timer. Straighten your posture, relax and take the stance.
+
+> Begin.
+
+> 4 min wait
+
+> Module complete. Off to the other. Activating Side-planking Module Left. 4 minute timer. Straighten your posture, relax and take the stance.
+
+> Begin.
+
+> 4 min wait
+
+> Module complete. Great effort, keep going. Activating Pushups Module. 4 minute timer. Straighten your posture, relax and take the stance.
 
 > Begin.
 
 > 2 min wait
-
-> Let's switch. Activating V-Bending Module. 2 minute timer. Take the stance.
-
-> Activate: V-Bending 4 min
-
-> Activate: Planking 4 min
-
-> Activate: Side-planking Right 4min
-
-> Activate: Side-planking Left 4min
-
-> Activate: Pushups 2min+
 
 > 30 min break for shower
 
