@@ -217,11 +217,11 @@ The music plays for about an hour.
 
 **Brief Ending**
 
+PC lights up and animated Helve AVR logo appears on screen.
+
 > "Helve HQ is now live and operational. Commence with directive protocol programs. Have a great day!"
 
-> Initiating LiveOps. Up next: Helve Briefing - Directive Protocol Beta [Knowledge]
-
-PC lights up and animated Helve AVR logo appears on screen.
+> Initiating LiveOps. Up next, Helve Briefing, Directive Protocol Beta, Knowledge.
 
 **Flash News Briefing.**
 
