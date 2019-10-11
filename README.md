@@ -91,13 +91,11 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > Nailed it. Activating T Balance Right Module. 3 minute timer. Take the stance.
 
-> 5 second break
-
 > Begin.
 
 > 2 min break
 
-> Good job. Activating T Balance Left Module. 2 minute timer. Take the stance.
+> Good job. Activating T Balance Left Module. 3 minute timer. Take the stance.
 
 > Begin.
 
