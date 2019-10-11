@@ -44,13 +44,13 @@ Fullscreen looping video of the node network visual with Helve AVR logo on boot 
 
 > Good morning, Helve Operative Mothnode. HQ has been activated. Initiating startup sequence. Relax, take a deep breath... and slowly exhale. Remember, thoughts and emotions are not your actual self. Remember, you're here to visually hack the world.
 
-> 5 sec wait
+5 sec wait
 
 > Selfinitiating "The Ritual of the Rising Sun" program.
 
 > Welcome to "The Ritual of the Rising Sun" Habit Automation System. How are you feeling today?"
 
-> 5 sec wait
+5 sec wait
 
 > Harness your energy. Initiating data scanning and analysis. 
 Operative Mothnode, here is today's progress timeline data. Please standby.
@@ -59,79 +59,81 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > Read today's Calendar.
 
-> 10 sec wait
+10 sec wait
 
 **PSYOPS: Computer, initiate physical training program [35MIN] [COMPLETE]**
 
 > Ready for Phase 1 Physical Training Program?
 
-> 5 sec wait
+5 sec wait
 
 > Phase 1 Physical Training Program active. Initiating serotonine intake. Prepare the tools.
 
-> 20 seconds break /// If possible - Bella Ciao starts playing.
+20 seconds break /// If possible - Bella Ciao starts playing.
 
 > Let us commence. Activating Diaphragm Breathing Module. 2 minute timer. Straighten your posture, relax and take the stance.
 
 > Begin.
 
-> 2 min wait
+2 min wait
 
 > Module complete. Well done. Activating Wrist Stretching Module. 2 minute timer. Straighten your posture, relax and take the stance.
 
 > Begin.
 
-> 2 min wait
+2 min wait
 
 > Module complete. Good job. Activating Shoulder Circling Module. 2 minute timer. Straighten your posture, relax and take the stance.
 
 > Begin.
 
-> 2 min wait
+2 min wait
 
 > Module complete. Nailed it. Activating T Balance Right Module. 3 minute timer. Straighten your posture, relax and take the stance.
 
 > Begin.
 
-> 3 min wait
+3 min wait
 
 > Module complete. Let's switch. Activating T Balance Left Module. 3 minute timer. Straighten your posture, relax and take the stance.
 
 > Begin.
 
-> 3 min wait
+3 min wait
 
 > Module complete. Nicely done. Activating V-Bending Module. 4 minute timer. Straighten your posture, relax and take the stance.
 
 > Begin.
 
-> 4 min wait
+4 min wait
 
 > Module complete. Time to walk the plank. Activating Planking Module. 4 minute timer. Straighten your posture, relax and take the stance.
 
 > Begin.
 
-> 4 min wait
+4 min wait
 
 > Module complete. Let's move to the sides. Activating Side-planking Module Right. 4 minute timer. Straighten your posture, relax and take the stance.
 
 > Begin.
 
-> 4 min wait
+4 min wait
 
 > Module complete. Off to the other. Activating Side-planking Module Left. 4 minute timer. Straighten your posture, relax and take the stance.
 
 > Begin.
 
-> 4 min wait
+4 min wait
 
 > Module complete. Activating Pushups Module. 2 minute timer. Straighten your posture, relax and take the stance.
 
 > Begin.
 
-> 2 min wait
+2 min wait
 
 > Physical Training Program complete. Great effort Operative.
+
+UNDER CONSTRUCTION_
 
 **PSYOPS: Computer, initiate grounding program / grounding [INCOMPLETE]**
 
