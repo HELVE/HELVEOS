@@ -214,7 +214,7 @@ The music plays for about an hour.
 
 **Brief Ending**
 
-> "Helve HQ is now live and operational. Commence with directive protocol programs."
+> "Helve HQ is now live and operational. Commence with directive protocol programs. Have a great day!"
 
 PC lights up and animated Helve AVR logo appears on screen.
 
