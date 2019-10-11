@@ -14,7 +14,7 @@ Shells
 ----------
 Layers of "ozone software". Develop the term ozone software.
 
-# BRIEF - Voice Bot Assistant System
+# BRIEF - Helve OS Voice Bot Assistant System
 
 **Brief** *brfshell*
 
@@ -22,13 +22,17 @@ Shell Placement: helve.live/#brief
 
 **Brief** is a fundamental part of the *Habit Automation System*. It enhances speed of communication, task management and assignment, note-taking, scheduling, overview analysis of current project progress and status etc. **Brief** HAB is based on the principles of [Project Dopamine Trails](https://github.com/HELVE/DOPAMINETRAILS), which helps clarify your core drives, maximizes focus and minimizes friction in getting things done through rewiring the notion of dopamine triggers and using them productively.
 
-Moment-establishing voice bot assistant with visuals. Habit Automation System. Voice assistant for all organization and data purposes. Streamlines the day schedule with no need to check the screens. Contains a variety of subprograms designed to carry the data load for you so you can focus on what matters.
+Moment-establishing voice bot assistant with visuals containing Habit Automation System. Voice assistant for all organization and data purposes. Streamlines the day schedule with no need to check the screens. Contains a variety of subprograms designed to carry the data load for you so you can focus on what matters.
 
-## PROGRAM SCRIPT / HELVE OS VOICEBOT ASSISTANT
+## Habit Automation System
 
-Basic structure based on Dopamine Trails: Helve Directive Protocols (Dopamine Optimization Framework) contain Operations (overarching effort loops), Operations contain Programs (specific types of routines that establish habits in certain life aspects over time), Programs contain Modules (narrative structures that help address specific sections of certain Programs).
+### System Structure
 
-Core Drives_ (Top Abstract) > Protocols_ (Top Abstract) > Operations_ (Top Abstract) > Programs_ (Base Abstract) > Modules_ (Base Abstract)
+System structure is based on Dopamine Trails. 
+
+Helve Directive Protocols (Dopamine Optimization Framework) contain Operations (overarching effort loops), Operations contain Programs (specific types of routines that establish habits in certain life aspects over time), Programs contain Modules (narrative structures that help address specific sections of certain Programs).
+
+Core Drives_ (Top Abstract) > Protocols_ (Top Abstract) > Operations_ (Top Abstract) > Master Programs_ > Programs_ (Base Abstract) > Modules_ (Base Abstract)
 
 - PSY_OPS - psychological operations.
 - CON_OPS - control operations.
