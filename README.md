@@ -117,6 +117,12 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 **PSYOPS: Computer, initiate grounding program / grounding [INCOMPLETE]**
 
+> Ready for Phase 2 Grounding Program?
+
+> 5 second break
+
+> Phase 2 Grounding Program active. x x x 
+
 > What's your latest accomplishment?
 
 > 10sec break
