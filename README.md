@@ -125,7 +125,7 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > 4 min wait
 
-> Module complete. Great effort, keep going. Activating Pushups Module. 2 minute timer. Straighten your posture, relax and take the stance.
+> Module complete. Great effort. Activating Pushups Module. 2 minute timer. Straighten your posture, relax and take the stance.
 
 > Begin.
 
