@@ -63,11 +63,11 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 **PSYOPS: Computer, initiate physical training program / activate physical / physical [INCOMPLETE]** input this
 
-> Ready for Phase 1 Physical Training Subprogram?
+> Ready for Phase 1 Physical Training Program?
 
 > 5 second break
 
-> Phase 1 Physical Training Subprogram active. Initiating serotonine intake. Please prepare, stretch and take your stance.
+> Phase 1 Physical Training Program active. Initiating serotonine intake. Please prepare, stretch and take your stance.
 
 > 20 seconds break
 
@@ -91,7 +91,7 @@ If possible - Bella Ciao starts playing.
 
 > 2 min break
 
-> Nailed it. Activating T Balance Right. 3 minute timer. Take the stance.
+> Nailed it. Activating T Balance Right Module. 3 minute timer. Take the stance.
 
 > 5 second break
 
@@ -99,9 +99,13 @@ If possible - Bella Ciao starts playing.
 
 > 2 min break
 
-> Activate: T-Balance Right 3 min
+> Good job. Activating T Balance Left Module. 2 minute timer. Take the stance.
 
-> Activate: T-Balance Left 3 min
+> Begin.
+
+> 2 min break
+
+> Let's switch. Activating T Balance Left Module. 2 minute timer. Take the stance.
 
 > Activate: V-Bending 4 min
 
