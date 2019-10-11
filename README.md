@@ -40,7 +40,7 @@ Core Drives_ (Top Abstract) > Protocols_ (Top Abstract) > Operations_ (Top Abstr
 
 Fullscreen looping video of the node network visual with Helve AVR logo on boot up, electronic noise beep as it starts, then a 10 second break. Binaural sounds. First 30 seconds are soothing, relaxing binaurals that go along with the voice greeting you.
 
-**PSYOPS: Computer, activate HQ program / activate HQ / activate [INCOMPLETE]**
+**PSYOPS: Computer, activate HQ program / activate HQ / activate [COMPLETE]**
 
 > Good morning, Helve Operative Mothnode. HQ has been activated. Initiating startup sequence. Relax, take a deep breath... and slowly exhale. Remember, thoughts and emotions are not your actual self. Remember, you're here to visually hack the world.
 
@@ -61,13 +61,13 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > 10 sec wait
 
-**PSYOPS: Computer, initiate physical training program / activate physical / physical [INCOMPLETE]**
+**PSYOPS: Computer, initiate physical training program / activate physical / physical [COMPLETE]**
 
 > Ready for Phase 1 Physical Training Program?
 
 > 5 sec wait
 
-> Phase 1 Physical Training Program active. Initiating serotonine intake. Please prepare, stretch and take your stance.
+> Phase 1 Physical Training Program active. Initiating serotonine intake. Straighten your posture, relax and take the stance.
 
 > 20 seconds break /// If possible - Bella Ciao starts playing.
 
@@ -131,25 +131,23 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > 2 min wait
 
-> 30 min break for shower
+
 
 **PSYOPS: Computer, initiate grounding program / grounding [INCOMPLETE]**
 
 > Ready for Phase 2 Grounding Program?
 
-> 5 second break
+> 5 second wait
 
-> Phase 2 Grounding Program active. x x x 
+> Phase 2 Grounding Program active. Let's ground you for a good start of the day, shall we?.
 
-> What's your latest accomplishment?
+What's your latest accomplishment?
 
 > 10sec break
 
-> Well done Operative, keep going. Let's ground you for a good start of the day, shall we?.
+> Well done Operative Mothnode, keep going. Remember, it's about the process not the goal. 
 
-> 1 second break
-
-> "Initiating Grounding Program. Please standby."
+> Initiating Phase 2 Grounding Program. Please standby.
 
 > 5 sec break
 
