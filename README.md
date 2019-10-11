@@ -75,33 +75,33 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > Begin.
 
-> 2 min break
+> 2 min wait
 
 > Well done. Activating Wrist Stretching Module. 2 minute timer. Take the stance.
 
 > Begin.
 
-> 2 min break
+> 2 min wait
 
 > Good job. Activating Shoulder Circling Module. 2 minute timer. Take the stance.
 
 > Begin.
 
-> 2 min break
+> 2 min wait
 
 > Nailed it. Activating T Balance Right Module. 3 minute timer. Take the stance.
 
 > Begin.
 
-> 2 min break
+> 3 min wait
 
-> Good job. Activating T Balance Left Module. 3 minute timer. Take the stance.
+> Let's switch. Activating T Balance Left Module. 3 minute timer. Take the stance.
 
 > Begin.
 
-> 2 min break
+> 2 min wait
 
-> Let's switch. Activating T Balance Left Module. 2 minute timer. Take the stance.
+> Let's switch. Activating V-Bending Module. 2 minute timer. Take the stance.
 
 > Activate: V-Bending 4 min
 
