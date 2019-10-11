@@ -44,13 +44,13 @@ Fullscreen looping video of the node network visual with Helve AVR logo on boot 
 
 > Good morning, Helve Operative Mothnode. HQ has been activated. Initiating startup sequence. Relax, take a deep breath... and slowly exhale. Remember, thoughts and emotions are not your actual self. Remember, you're here to visually hack the world.
 
-> Wait 5 seconds.
+> 5 sec wait
 
 > Selfinitiating "The Ritual of the Rising Sun" program.
 
 > Welcome to "The Ritual of the Rising Sun" Habit Automation System. How are you feeling today?"
 
-> (5 second break)
+> 5 sec wait
 
 > Harness your energy. Initiating data scanning and analysis. 
 Operative Mothnode, here is today's progress timeline data. Please standby.
@@ -59,13 +59,13 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > Read today's Calendar.
 
-> 10 second break
+> 10 sec wait
 
 **PSYOPS: Computer, initiate physical training program / activate physical / physical [INCOMPLETE]** input this
 
 > Ready for Phase 1 Physical Training Program?
 
-> 5 second break
+> 5 sec wait
 
 > Phase 1 Physical Training Program active. Initiating serotonine intake. Please prepare, stretch and take your stance.
 
