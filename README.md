@@ -151,6 +151,8 @@ UNDER CONSTRUCTION_
 
 **PSYOPS: Computer, initiate grounding program / grounding [INCOMPLETE]**
 
+Reference: Youper AI / Replika AI
+
 > Ready for Phase 2 Grounding Program?
 
 > 5 second wait
