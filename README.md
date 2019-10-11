@@ -323,7 +323,7 @@ HELVE HQ_ RITUAL OF RISING SUN
 
 ---
 
-# EDGE
+# EDGE/SHELL
 helve.live/#edge
 **Edge** *edgshell*	
 Project database. States: Open (Void), Active (Ascension), Release (Fulfilment).
