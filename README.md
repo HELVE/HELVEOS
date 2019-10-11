@@ -48,7 +48,7 @@ Modules_ (Base Abstract)
 - CON_OPS - control operations.
 - PHY_OPS - physical operations (?)  <- merge this one with psychological since it's just as much external.
 
-### THE RITUAL OF THE RISING SUN (Master Program)
+### THE RITUAL OF THE RISING SUN
 
 **DEFAULT SILENT STATE**
 
