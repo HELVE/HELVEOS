@@ -14,7 +14,7 @@ Shells
 ----------
 Layers of "ozone software". Develop the term ozone software.
 
-# BRIEF - Helve OS Voice Bot Assistant System
+# BRIEF/SHELL - Helve OS Voice Bot Assistant System
 
 **Brief** *brfshell*
 
