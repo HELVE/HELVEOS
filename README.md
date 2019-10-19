@@ -64,7 +64,7 @@ Fullscreen looping video of the node network visual with Helve AVR logo on boot 
 
 > Welcome to "The Ritual of the Rising Sun" Habit Automation System. How are you feeling today?"
 
-5 sec wait
+5s_wait
 
 > Harness your energy. Initiating data scanning and analysis. 
 Operative Mothnode, here is today's progress timeline data. Please standby.
