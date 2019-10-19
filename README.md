@@ -89,37 +89,37 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > Begin.
 
-2min_wait
+2m_wait
 
 > Module complete. Well done. Activating Wrist Stretching Module. 2 minute timer. Straighten your posture, relax and take the stance.
 
 > Begin.
 
-2min_wait
+2m_wait
 
 > Module complete. Good job. Activating Shoulder Circling Module. 2 minute timer. Straighten your posture, relax and take the stance.
 
 > Begin.
 
-2min_wait
+2m_wait
 
 > Module complete. Nailed it. Activating T Balance Right Module. 3 minute timer. Straighten your posture, relax and take the stance.
 
 > Begin.
 
-3min_wait
+3m_wait
 
 > Module complete. Let's switch. Activating T Balance Left Module. 3 minute timer. Straighten your posture, relax and take the stance.
 
 > Begin.
 
-3min_wait
+3m_wait
 
 > Module complete. Nicely done. Activating V-Bending Module. 4 minute timer. Straighten your posture, relax and take the stance.
 
 > Begin.
 
-4min_wait
+4m_wait
 
 > Module complete. Time to walk the plank. Activating Planking Module. 4 minute timer. Straighten your posture, relax and take the stance.
 
@@ -131,7 +131,7 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > Begin.
 
-4min_wait
+4m_wait
 
 > Module complete. Off to the other. Activating Side-planking Module Left. 4 minute timer. Straighten your posture, relax and take the stance.
 
@@ -143,7 +143,7 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > Begin.
 
-2min_wait
+2m_wait
 
 > Physical Training Program complete. Great effort Operative.
 
@@ -167,8 +167,7 @@ What's your latest accomplishment?
 
 > Initiating Phase 2 Grounding Program. Please standby.
 
-> 5 sec break
-
+5s_wait
 
 - **TECHMEDITATION MODULE**
 
