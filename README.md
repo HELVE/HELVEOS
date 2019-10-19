@@ -95,7 +95,7 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > Begin.
 
-2 min wait
+2min_wait
 
 > Module complete. Good job. Activating Shoulder Circling Module. 2 minute timer. Straighten your posture, relax and take the stance.
 
