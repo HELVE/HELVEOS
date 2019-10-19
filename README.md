@@ -143,7 +143,7 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > Begin.
 
-2 min wait
+2min_wait
 
 > Physical Training Program complete. Great effort Operative.
 
