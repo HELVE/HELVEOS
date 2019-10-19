@@ -186,7 +186,7 @@ What's your latest accomplishment?
 5s_wait
 
 > "Please draw 1/4th of a mental circle around you."
-> "This is your space of self-intent. Thoughts processes directed inwards will stabilize your existing inner energy and ground your approach to yourself. Think about how you intend to treat yourself."
+> "This is your space of self-intent. Thoughts processes directed inwards will stabilize your existing inner energy and ground your approach to yourself. Think about how you intend to treat yourself. Once you describe it return to calm state."
 
 3m_wait
 
