@@ -79,7 +79,7 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > Ready for Phase 1 Physical Training Program?
 
-5 sec wait
+5s_wait
 
 > Phase 1 Physical Training Program active. Initiating serotonine intake. Prepare the tools.
 
