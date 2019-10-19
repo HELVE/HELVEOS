@@ -53,7 +53,7 @@ Modules_ (Base Abstract)
 
 Guidance system for the morning phase/wake up phase.
 
-**DEFAULT SILENT STATE**
+**Default Mode: Silent State**
 
 Fullscreen looping video of the node network visual with Helve AVR logo on boot up, electronic noise beep as it starts, then a 10 second break. Binaural sounds. First 30 seconds are soothing, relaxing binaurals that go along with the voice greeting you.
 
