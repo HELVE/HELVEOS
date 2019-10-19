@@ -183,7 +183,7 @@ What's your latest accomplishment?
 
 > “Initiating Circle of Intent Module.”
 
-> 5 sec break
+5s_wait
 
 > "Please draw 1/4th of a mental circle around you."
 > "This is your space of self-intent. Thoughts processes directed inwards will stabilize your existing inner energy and ground your approach to yourself. Think about how you intend to treat yourself."
