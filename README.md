@@ -155,13 +155,13 @@ Reference: Youper AI / Replika AI
 
 > Ready for Phase 2 Grounding Program?
 
-> 5 second wait
+5s_wait
 
 > Phase 2 Grounding Program active. Let's ground you for a good start of the day, shall we?.
 
 What's your latest accomplishment?
 
-> 10sec break
+10s_wait
 
 > Well done Operative Mothnode, keep going. Remember, it's about the process not the goal. 
 
