@@ -23,7 +23,7 @@ Shell Placement: helve.live/#brief
 
 Moment-establishing voice bot assistant with visuals containing Habit Automation System. Voice assistant for all organization and data purposes. Streamlines the day schedule with no need to check the screens. Contains a variety of subprograms designed to carry the data load for you so you can focus on what matters.
 
-## Habit Automation System
+## Habit Automation System (HAS)
 
 ### System Structure
 
