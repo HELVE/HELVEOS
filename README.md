@@ -58,7 +58,7 @@ Fullscreen looping video of the node network visual with Helve AVR logo on boot 
 
 > Good morning, Helve Operative Mothnode. HQ has been activated. Initiating startup sequence. Relax, take a deep breath... and slowly exhale. Remember, thoughts and emotions are not your actual self. Remember, you're here to visually hack the world.
 
-5 sec wait
+5s_wait
 
 > Selfinitiating "The Ritual of the Rising Sun" program.
 
