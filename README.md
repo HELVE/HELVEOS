@@ -73,7 +73,7 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > Read today's Calendar.
 
-10 sec wait
+10s_wait
 
 **PSYOPS: Computer, initiate physical training program [35MIN] [COMPLETE]**
 
