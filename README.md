@@ -11,7 +11,6 @@ Its purpose is to track, maintain and analyse behavioral productivity of the use
 It contains *shells* that act as system functionalities.
 
 # SHELLS
-----------
 Layers of "ozone software". Develop the term ozone software.
 
 # BRIEF/SHELL - Helve OS Voice Bot Assistant System
