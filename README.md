@@ -31,7 +31,7 @@ Moment-establishing voice bot assistant with visuals containing Habit Automation
 System structure is based on [Project Dopamine Trails](https://github.com/HELVE/DOPAMINETRAILS). 
 
 Helve Directive Protocols (Dopamine Optimization Framework) contain Operations (overarching effort loops), Operations contain Programs (specific types of routines that establish habits in certain life aspects over time), Programs contain Modules (narrative structures that help address specific sections of certain Programs).
-
+```
 Core Drives_ (Top Abstract) > 
 
 Protocols_ (Top Abstract) > 
@@ -43,6 +43,7 @@ Master Programs_ >
 Programs_ (Base Abstract) > 
 
 Modules_ (Base Abstract)
+```
 
 - PSY_OPS - psychological operations.
 - CON_OPS - control operations.
