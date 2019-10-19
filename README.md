@@ -256,7 +256,7 @@ Control operations. Automated at 8PM. Later on it will involve using smart devic
 
 Perhaps add: Remember to commit on GitHub?
 
-> Wait 5 seconds.
+5s_wait
 
 > Procedural status, complete. Sensors fully functional and running. Good night, Helve Operative mothnode. Approach the REM landscapes in peace. 
 
