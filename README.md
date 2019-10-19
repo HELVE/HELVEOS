@@ -191,7 +191,7 @@ What's your latest accomplishment?
 3m_wait
 
 > "Please draw 2/4th of a mental circle around you."
-> "This is your space of outward intent. Thought processes directed outward will stabilize your perception of others and create the way forward. Think about how you intend to treat others."
+> "This is your space of outward intent. Thought processes directed outward will stabilize your perception of others and create the way forward. Think about how you intend to treat others. Once you describe it return to calm state."
 
 3m_wait
 
