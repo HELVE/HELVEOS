@@ -44,11 +44,11 @@ Programs_ (Base Abstract) >
 
 Modules_ (Base Abstract)
 ```
-
+```
 - PSY_OPS - psychological operations.
 - CON_OPS - control operations.
 - PHY_OPS - physical operations (?)  <- merge this one with psychological since it's just as much external.
-
+```
 ### THE RITUAL OF THE RISING SUN
 
 **DEFAULT SILENT STATE**
