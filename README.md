@@ -188,12 +188,12 @@ What's your latest accomplishment?
 > "Please draw 1/4th of a mental circle around you."
 > "This is your space of self-intent. Thoughts processes directed inwards will stabilize your existing inner energy and ground your approach to yourself. Think about how you intend to treat yourself."
 
-> 3min break
+3m_wait
 
 > "Please draw 2/4th of a mental circle around you."
 > "This is your space of outward intent. Thought processes directed outward will stabilize your perception of others and create the way forward. Think about how you intend to treat others."
 
-> 3min break
+3m_wait
 
 > "Please draw a 3/4th full mental circle around you."
 > "This is your space of higher intent. Thought processes directed into the void will summon positive energy within you. Think about how you intend to use that energy."
