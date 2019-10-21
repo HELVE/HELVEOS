@@ -282,7 +282,7 @@ Spotify Aggro Mood playlist. Requires more custom name? Easy name?
 
 > Computer, smooth playlist. 
 
-Spotify Smooth Moood playlist. Requires more custom name?
+Spotify Smooth Moood playlist. Requires more custom name? Easy name?
 
 ### Routine Ideas
 
