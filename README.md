@@ -274,7 +274,7 @@ Perhaps add: Remember to commit on GitHub?
 
 > Computer, rap playlist.
 
-Spotify Thug Mood playlist. Requires more custom name?
+Spotify Thug Mood playlist. Requires more custom name? Easy name?
 
 > Computer, metal playlist.
 
