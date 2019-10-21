@@ -278,7 +278,7 @@ Spotify Thug Mood playlist. Requires more custom name? Easy name?
 
 > Computer, metal playlist.
 
-Spotify Aggro Mood playlist. Requires more custom name?
+Spotify Aggro Mood playlist. Requires more custom name? Easy name?
 
 > Computer, smooth playlist. 
 
