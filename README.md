@@ -205,7 +205,7 @@ What's your latest accomplishment?
 > "Please draw a full mental circle around you."
 > "This is your space of general intent. Thought processes now need to be grounded on the observed reality and will gain initial direction and create a spark of willpower due to clarity. Think about your day's overall intent and focus."
 
-**PSYOPS: Computer, initiate medbay [INCOMPLETE]**
+**PSYOPS: Computer, initiate medbay [INCOMPLETE] < FOCUS**
 
 > Computer, Initiate Medbay Program.
 
