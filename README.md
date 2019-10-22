@@ -333,7 +333,7 @@ Project database. States: Open (Void), Active (Ascension), Release (Fulfilment).
 
 ---
 
-# GRIP/SHELL
+# GRIP/SHELL [SUBOZONE LAYER]
 helve.live/#grip
 **Grip** *grpshell*	
 Graphical interface of HELVE. It binds the sub-shells together.
