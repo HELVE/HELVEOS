@@ -10,10 +10,10 @@ Its purpose is to track, maintain and analyse behavioral productivity of the use
 
 It contains *shells* that act as system functionalities.
 
-# SHELLS
+# SHELLS [BASE OZONE LAYER]
 Layers of "ozone software". Develop the term ozone software.
 
-# BRIEF/SHELL - Helve OS Voice Bot Assistant System
+# BRIEF/SHELL - Helve OS Voice Bot Assistant System [SUBOZONE LAYER]
 
 **Brief** *brfshell*
 
