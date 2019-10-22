@@ -347,7 +347,7 @@ Displays & analyses various data relating to passage of time through a multi-lin
 
 ---
 
-# POINT/SHELL
+# POINT/SHELL [SUBOZONE LAYER]
 helve.live/#point
 **Point** *pntshell*
 Data tracker and parser. Tracks and analyses edgshell task, time management and categorization input, *linshell* time stamps and event points.
