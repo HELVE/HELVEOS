@@ -340,7 +340,7 @@ Graphical interface of HELVE. It binds the sub-shells together.
 
 ---
 
-# LINE/SHELL
+# LINE/SHELL [SUBOZONE LAYER]
 helve.live/#line
 **Line** *linshell*
 Displays & analyses various data relating to passage of time through a multi-linear data timeline.
