@@ -361,7 +361,7 @@ Nutrition and supplies tracker.
 
 ---
 
-# FUND/SHELL
+# FUND/SHELL [SUBOZONE LAYER]
 helve.live/#fund
 **Fund** *fndshell*
 Crowdfunding.
