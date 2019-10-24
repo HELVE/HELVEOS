@@ -171,7 +171,7 @@ What's your latest accomplishment?
 
 5s_wait
 
-- **TECHMEDITATION MODULE**
+- **TECHMEDITATION MODULE** < < <
 
 > Initiating Techmeditation Module. Loading animalistic and core drive atunement variables. Standby to achieve balance.”
 
