@@ -103,7 +103,7 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > Begin.
 
-2m_wait
+> 2m_wait
 
 > Module complete. Nailed it. Activating T Balance Right Module. 3 minute timer. Straighten your posture, relax and take the stance.
 
