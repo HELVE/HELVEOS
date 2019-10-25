@@ -163,7 +163,7 @@ Reference: Youper AI / Replika AI
 
 What's your latest accomplishment?
 
-10s_wait
+> 10s_wait
 
 > Well done Operative Mothnode, keep going. Remember, it's about the process not the goal. 
 
