@@ -161,7 +161,7 @@ Reference: Youper AI / Replika AI
 
 > Phase 2 Grounding Program active. Let's ground you for a good start of the day, shall we?.
 
-What's your latest accomplishment?
+> What's your latest accomplishment?
 
 > 10s_wait
 
