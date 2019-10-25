@@ -2,7 +2,7 @@
 
 ![](helve-banner.png)
 
-# HELVE OS | Personal Organization Micro webOS
+# HELVE OS | Personal Organization MicroOS (Web?)
 
 **HELVE OS** is a website/server-based personal organization microOS (POMOS Master Shell). Habit Automation System with multiple programs working in unison. 
 
