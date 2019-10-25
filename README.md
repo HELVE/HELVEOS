@@ -200,7 +200,7 @@ Reference: Youper AI / Replika AI
 > "Please draw a 3/4th full mental circle around you."
 > "This is your space of higher intent. Thought processes directed into the void will summon positive energy within you. Think about how you intend to use that energy. Once you describe it return to calm state for the remaining time."
 
-3m_wait
+> 3m_wait
 
 > "Please draw a full mental circle around you."
 > "This is your space of general intent. Thought processes now need to be grounded on the observed reality and will gain initial direction and create a spark of willpower due to clarity. Think about your day's overall intent and focus."
