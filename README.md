@@ -169,7 +169,7 @@ Reference: Youper AI / Replika AI
 
 > Initiating Phase 2 Grounding Program. Please standby.
 
-5s_wait
+> 5s_wait
 
 - **TECHMEDITATION MODULE** < < <
 
