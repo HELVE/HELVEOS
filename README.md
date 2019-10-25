@@ -190,7 +190,7 @@ Reference: Youper AI / Replika AI
 > "Please draw 1/4th of a mental circle around you."
 > "This is your space of self-intent. Thoughts processes directed inwards will stabilize your existing inner energy and ground your approach to yourself. Think about how you intend to treat yourself. Once you describe it return to calm state for the remaining time."
 
-3m_wait
+> 3m_wait
 
 > "Please draw 2/4th of a mental circle around you."
 > "This is your space of outward intent. Thought processes directed outward will stabilize your perception of others and create the way forward. Think about how you intend to treat others. Once you describe it return to calm state for the remaining time."
