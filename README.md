@@ -85,27 +85,60 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > 5s_wait
 
-> Phase 1 Physical Training Program active. Initiating serotonine intake. Prepare the tools.
+> Phase 1 Physical Training Program active. Initiating serotonine intake. Prepare the tools and focus your energy.
 
-> 20s_wait /// If possible - Bella Ciao starts playing.
+> 30s_wait
 
-> Let us commence. Activating Diaphragm Breathing Module. 2 minute timer. Straighten your posture, relax and take the stance.
+> Let us commence with prep and stretching. First gather the energy (yoga triangle pose).
 
-> Begin.
+> 30s_wait
 
-> 2m_wait
-
-> Module complete. Well done. Activating Wrist Stretching Module. 2 minute timer. Straighten your posture, relax and take the stance.
+> Activating Diaphragm Breathing Module. 2 minute timer. Straighten your posture, relax and take the stance.
 
 > Begin.
 
 > 2m_wait
 
-> Module complete. Good job. Activating Shoulder Circling Module. 2 minute timer. Straighten your posture, relax and take the stance.
+> Module complete. Well done. Gather the energy (yoga triangle pose).
+
+> 30s_wait
+
+> Activating Wrist Stretching Module. 2 minute timer. Straighten your posture, relax and take the stance.
 
 > Begin.
 
 > 2m_wait
+
+> Module complete. Gather the energy (yoga triangle pose).
+
+> 30s_wait
+
+> Activating Arm Side Stretching Module. 1 minute timer. Straighten your posture, relax and take the stance.
+
+> Begin.
+
+> 1m_wait
+
+> Module complete. Good job. Gather the energy (yoga triangle pose).
+
+> 30s_wait
+
+> Activating Shoulder Circling Module. 2 minute timer. Straighten your posture, relax and take the stance.
+
+> Begin.
+
+> 1m_wait
+
+> Switch direction.
+
+> 1m_wait
+
+
+> Module complete. Activating Arm Side Stretching Module. 1 minute timer. Straighten your posture, relax and take the stance.
+
+> Begin.
+
+> 1m_wait
 
 > Module complete. Nailed it. Activating T Balance Right Module. 3 minute timer. Straighten your posture, relax and take the stance.
 
