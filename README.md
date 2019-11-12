@@ -277,7 +277,9 @@ PUSHUPS
 
 mobile alarms with custom recordings with the same voice
 
-**PSYOPS: Computer, initiate nutrition [INCOMPLETE] < FOCUS**
+**PSYOPS: Computer, initiate nutrition patterns [INCOMPLETE] < FOCUS**
+
+- create a proper diet before you fill in the Nutrition Pattterns Program
 
 > "Initiate Nutrition Program"
 
