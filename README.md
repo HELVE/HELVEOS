@@ -147,6 +147,22 @@ SHOULDER STRETCH
 
 > 30s_wait
 
+NECK STRETCH
+
+> Activating NECK Circling Module. 2 minute timer. Straighten your posture, relax and assume the position.
+
+> Begin.
+
+> 1m_wait
+
+> Switch direction.
+
+> 1m_wait
+
+> Module complete. Focus the energy (yoga triangle pose).
+
+> 30s_wait
+
 LEG STRETCH
 
 > Activating LEG Stretching Module. 1 minute timer. Straighten your posture, relax and assume the position.
@@ -161,7 +177,7 @@ LEG STRETCH
 
 T BALANCE RIGHT
 
-> Activating T Balance Right Module. 1 minute timer. Straighten your posture, relax and assume the position.
+> Good, now you are ready. Activating T Balance Right Module. 1 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
 
@@ -179,19 +195,35 @@ T BALANCE LEFT
 
 > 1m_wait
 
-> Module complete. Nicely done. Activating V-Bending Module. 4 minute timer. Straighten your posture, relax and assume the position.
+> Module complete. Focus the energy (yoga triangle pose).
+
+> 30s_wait
+
+V-BENDING
+
+> Nicely done. Activating V-Bending Module. 3 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
 
-> 4m_wait
+> 3m_wait
 
-> Module complete. Time to walk the plank. Activating Planking Module. 4 minute timer. Straighten your posture, relax and assume the position.
+> Module complete. Focus the energy (yoga triangle pose).
+
+> 30s_wait
+
+PLANKING
+
+> Time to walk the plank. Activating Planking Module. 2 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
 
-> 4m_wait
+> 2m_wait
 
-> Module complete. Let's move to the sides. Activating Side-planking Module Right. 4 minute timer. Straighten your posture, relax and assume the position.
+> Module complete. Focus the energy (yoga triangle pose).
+
+> 30s_wait
+
+> Let's move to the sides. Activating Side-planking Module Right. 4 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
 
