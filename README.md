@@ -308,7 +308,7 @@ PC lights up and animated Helve AVR logo appears on screen.
 
 **PSYOPS: Computer, initiate grounding program / grounding [INCOMPLETE]**
 
-Reference: Youper AI / Replika AI
+Reference: Youper AI / Replika AI?
 
 > Ready for Phase 2 Grounding Program?
 
