@@ -159,6 +159,8 @@ LEG STRETCH
 
 > 30s_wait
 
+T BALANCE RIGHT
+
 > Activating T Balance Right Module. 1 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
@@ -168,6 +170,8 @@ LEG STRETCH
 > Module complete. Focus the energy (yoga triangle pose).
 
 > 30s_wait
+
+T BALANCE LEFT
 
 > Let's switch. Activating T Balance Left Module. 1 minute timer. Straighten your posture, relax and assume the position.
 
