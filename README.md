@@ -273,7 +273,7 @@ PUSHUPS
 
 > “Initiating Medbay Program.”
 
-> "Medbay Attention Required. Take your resistants."
+> "Medbay Attention Required. Take your resistants Operative."
 
 - vit C, bodymax, b12, cbd serum
 
@@ -282,6 +282,12 @@ mobile alarms with custom recordings with the same voice
 **PSYOPS: Computer, initiate nutrition [INCOMPLETE] < FOCUS**
 
 > "Initiate Nutrition Program"
+
+lemon water
+
+30min_wait
+
+celery juice
 
 > Computer, query sequence.
 
