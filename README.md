@@ -243,9 +243,7 @@ SIDE PLANKING RIGHT
 
 > 1m_wait
 
-> Module complete. 
-
-Focus the energy (yoga triangle pose).
+> Module complete. Focus the energy (yoga triangle pose).
 
 > 30s_wait
 
