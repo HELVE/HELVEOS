@@ -79,7 +79,7 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > 10s_wait
 
-**PSYOPS: Computer, initiate physical training program [35MIN] [COMPLETE]**
+**PSYOPS: Computer, initiate physical training program [35MIN?] [COMPLETE]**
 
 > Ready for Phase 1 Physical Training Program?
 
