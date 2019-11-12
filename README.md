@@ -275,7 +275,11 @@ PUSHUPS
 
 > "Medbay Attention Required. Take your resistants."
 
+- vit C, bodymax, b12, cbd serum
+
 mobile alarms with custom recordings with the same voice
+
+**PSYOPS: Computer, initiate nutrition [INCOMPLETE] < FOCUS**
 
 > "Initiate Nutrition Program"
 
