@@ -134,23 +134,25 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 > 1m_wait
 
 
-> Module complete. Activating Arm Side Stretching Module. 1 minute timer. Straighten your posture, relax and take the stance.
+> Module complete. 
+
+> Activating Arm Side Stretching Module. 1 minute timer. Straighten your posture, relax and take the stance.
 
 > Begin.
 
 > 1m_wait
 
-> Module complete. Nailed it. Activating T Balance Right Module. 3 minute timer. Straighten your posture, relax and take the stance.
+> Module complete. Nailed it. Activating T Balance Right Module. 1 minute timer. Straighten your posture, relax and take the stance.
 
 > Begin.
 
-> 3m_wait
+> 1m_wait
 
-> Module complete. Let's switch. Activating T Balance Left Module. 3 minute timer. Straighten your posture, relax and take the stance.
+> Module complete. Let's switch. Activating T Balance Left Module. 1 minute timer. Straighten your posture, relax and take the stance.
 
 > Begin.
 
-> 3m_wait
+> 1m_wait
 
 > Module complete. Nicely done. Activating V-Bending Module. 4 minute timer. Straighten your posture, relax and take the stance.
 
