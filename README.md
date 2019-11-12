@@ -131,6 +131,18 @@ ARM STRETCH
 
 > 30s_wait
 
+SWING STRETCHING - DOG/DOLPHIN POSITION
+
+> Activating Swing Stretching Module. 2 minute timer. Straighten your posture, relax and assume the position.
+
+> Begin.
+
+> 2m_wait
+
+> Module complete. Good job. Focus the energy (yoga triangle pose).
+
+> 30s_wait
+
 SHOULDER STRETCH
 
 > Activating SHOULDER Circling Module. 2 minute timer. Straighten your posture, relax and assume the position.
@@ -213,91 +225,49 @@ V-BENDING
 
 PLANKING
 
-> Time to walk the plank. Activating Planking Module. 2 minute timer. Straighten your posture, relax and assume the position.
+> Time to walk the plank. Activating Planking Module. 1 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
 
-> 2m_wait
+> 1m_wait
 
 > Module complete. Focus the energy (yoga triangle pose).
 
 > 30s_wait
 
-> Let's move to the sides. Activating Side-planking Module Right. 4 minute timer. Straighten your posture, relax and assume the position.
+SIDE PLANKING RIGHT
+
+> Let's move to the sides. Activating Side-planking Module Right. 1 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
 
-> 4m_wait
+> 1m_wait
 
-> Module complete. Off to the other. Activating Side-planking Module Left. 4 minute timer. Straighten your posture, relax and assume the position.
+> Module complete. 
+
+Focus the energy (yoga triangle pose).
+
+> 30s_wait
+
+SIDE PLANKING LEFT
+
+> Off to the other side. Activating Side-planking Module Left. 1 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
 
-> 4m_wait
+> 1m_wait
 
-> Module complete. Activating Pushups Module. 2 minute timer. Straighten your posture, relax and assume the position.
+> Module complete. 
+
+PUSHUPS
+
+> Activating Pushups Module. 1 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
 
-> 2m_wait
+> 1m_wait
 
 > Physical Training Program complete. Serotonin intake complete. Great effort Operative. 
-
-UNDER CONSTRUCTION_
-
-**PSYOPS: Computer, initiate grounding program / grounding [INCOMPLETE]**
-
-Reference: Youper AI / Replika AI
-
-> Ready for Phase 2 Grounding Program?
-
-> 5s_wait
-
-> Phase 2 Grounding Program active. Let's ground you for a good start of the day, shall we?.
-
-> What's your latest accomplishment?
-
-> 10s_wait
-
-> Well done Operative Mothnode, keep going. Remember, it's about the process not the goal. 
-
-> Initiating Phase 2 Grounding Program. Please standby.
-
-> 5s_wait
-
-- **TECHMEDITATION MODULE** < < <
-
-> Initiating Techmeditation Module. Loading animalistic and core drive atunement variables. Standby to achieve balance.”
-
-> 3 minutes countdown - prepare
-> “Clear your mind”
-> 1 sec break
-> "Blue sky"
-> 1h meditation with soothing music
-
-- **CIRCLE OF INTENT MODULE**
-
-> “Initiating Circle of Intent Module.”
-
-> 5s_wait
-
-> "Please draw 1/4th of a mental circle around you."
-> "This is your space of self-intent. Thoughts processes directed inwards will stabilize your existing inner energy and ground your approach to yourself. Think about how you intend to treat yourself. Once you describe it return to calm state for the remaining time."
-
-> 3m_wait
-
-> "Please draw 2/4th of a mental circle around you."
-> "This is your space of outward intent. Thought processes directed outward will stabilize your perception of others and create the way forward. Think about how you intend to treat others. Once you describe it return to calm state for the remaining time."
-
-> 3m_wait
-
-> "Please draw a 3/4th full mental circle around you."
-> "This is your space of higher intent. Thought processes directed into the void will summon positive energy within you. Think about how you intend to use that energy. Once you describe it return to calm state for the remaining time."
-
-> 3m_wait
-
-> "Please draw a full mental circle around you."
-> "This is your space of general intent. Thought processes now need to be grounded on the observed reality and will gain initial direction and create a spark of willpower due to clarity. Think about your day's overall intent and focus."
 
 **PSYOPS: Computer, initiate medbay [INCOMPLETE] < FOCUS**
 
@@ -333,6 +303,60 @@ PC lights up and animated Helve AVR logo appears on screen.
 > "Helve HQ is now live and operational. Commence with directive protocol programs. Have a great day!"
 
 > Initiating LiveOps. Up next, Helve Briefing, Directive Protocol Beta, Knowledge.
+
+**PSYOPS: Computer, initiate grounding program / grounding [INCOMPLETE]**
+
+Reference: Youper AI / Replika AI
+
+> Ready for Phase 2 Grounding Program?
+
+> 5s_wait
+
+> Phase 2 Grounding Program active. Let's ground you for a good start of the day, shall we?.
+
+> What's your latest accomplishment?
+
+> 10s_wait
+
+> Well done Operative Mothnode, keep going. Remember, it's about the process not the goal. 
+
+> Initiating Phase 2 Grounding Program. Please standby.
+
+> 5s_wait
+
+- **TECHMEDITATION MODULE** [OPTIONAL MODULE]
+
+> Initiating Techmeditation Module. Loading animalistic and core drive atunement variables. Standby to achieve balance.”
+
+> 3 minutes countdown - prepare
+> “Clear your mind”
+> 1 sec break
+> "Blue sky"
+> 1h meditation with soothing music
+
+- **CIRCLE OF INTENT MODULE** [OPTIONAL MODULE]
+
+> “Initiating Circle of Intent Module.”
+
+> 5s_wait
+
+> "Please draw 1/4th of a mental circle around you."
+> "This is your space of self-intent. Thoughts processes directed inwards will stabilize your existing inner energy and ground your approach to yourself. Think about how you intend to treat yourself. Once you describe it return to calm state for the remaining time."
+
+> 3m_wait
+
+> "Please draw 2/4th of a mental circle around you."
+> "This is your space of outward intent. Thought processes directed outward will stabilize your perception of others and create the way forward. Think about how you intend to treat others. Once you describe it return to calm state for the remaining time."
+
+> 3m_wait
+
+> "Please draw a 3/4th full mental circle around you."
+> "This is your space of higher intent. Thought processes directed into the void will summon positive energy within you. Think about how you intend to use that energy. Once you describe it return to calm state for the remaining time."
+
+> 3m_wait
+
+> "Please draw a full mental circle around you."
+> "This is your space of general intent. Thought processes now need to be grounded on the observed reality and will gain initial direction and create a spark of willpower due to clarity. Think about your day's overall intent and focus."
 
 **Flash News Briefing.**
 
