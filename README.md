@@ -81,6 +81,8 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 **PSYOPS: Computer, initiate physical training program [35MIN?] [COMPLETE]**
 
+PREPARATION
+
 > Ready for Phase 1 Physical Training Program?
 
 > 5s_wait
@@ -89,9 +91,11 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > 30s_wait
 
-> Let us commence with preparation and stretching. First gather the energy (yoga triangle pose).
+> Let us commence with preparation and stretching. First focus the energy (yoga triangle pose).
 
 > 30s_wait
+
+BREATHING
 
 > Activating Diaphragm Breathing Module. 2 minute timer. Straighten your posture, relax and assume the position.
 
@@ -99,9 +103,11 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > 2m_wait
 
-> Module complete. Well done. Gather the energy (yoga triangle pose).
+> Module complete. Well done. Focus the energy (yoga triangle pose).
 
 > 30s_wait
+
+WRIST STRETCH
 
 > Activating WRIST Stretching Module. 1 minute timer. Straighten your posture, relax and take the position.
 
@@ -109,9 +115,11 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > 1m_wait
 
-> Module complete. Gather the energy (yoga triangle pose).
+> Module complete. Focus the energy (yoga triangle pose).
 
 > 30s_wait
+
+ARM STRETCH
 
 > Activating ARM Side Stretching Module. 1 minute timer. Straighten your posture, relax and assume the position.
 
@@ -119,9 +127,11 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > 1m_wait
 
-> Module complete. Good job. Gather the energy (yoga triangle pose).
+> Module complete. Good job. Focus the energy (yoga triangle pose).
 
 > 30s_wait
+
+SHOULDER STRETCH
 
 > Activating SHOULDER Circling Module. 2 minute timer. Straighten your posture, relax and assume the position.
 
@@ -133,23 +143,33 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > 1m_wait
 
-> Module complete. Gather the energy (yoga triangle pose).
+> Module complete. Focus the energy (yoga triangle pose).
 
 > 30s_wait
 
-> Activating Arm Side Stretching Module. 1 minute timer. Straighten your posture, relax and assume the position.
+LEG STRETCH
+
+> Activating LEG Stretching Module. 1 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
 
 > 1m_wait
 
-> Module complete. Nailed it. Activating T Balance Right Module. 1 minute timer. Straighten your posture, relax and assume the position.
+> Module complete. Nailed it. Focus the energy (yoga triangle pose).
+
+> 30s_wait
+
+> Activating T Balance Right Module. 1 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
 
 > 1m_wait
 
-> Module complete. Let's switch. Activating T Balance Left Module. 1 minute timer. Straighten your posture, relax and assume the position.
+> Module complete. Focus the energy (yoga triangle pose).
+
+> 30s_wait
+
+> Let's switch. Activating T Balance Left Module. 1 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
 
