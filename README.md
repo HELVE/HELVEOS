@@ -85,15 +85,15 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > 5s_wait
 
-> Phase 1 Physical Training Program active. Initiating serotonine intake. Prepare the tools and focus your energy.
+> Phase 1 Physical Training Program active. Initiating serotonine intake. Prepare the tools, relax and focus your anima.
 
 > 30s_wait
 
-> Let us commence with prep and stretching. First gather the energy (yoga triangle pose).
+> Let us commence with preparation and stretching. First gather the energy (yoga triangle pose).
 
 > 30s_wait
 
-> Activating Diaphragm Breathing Module. 2 minute timer. Straighten your posture, relax and take the stance.
+> Activating Diaphragm Breathing Module. 2 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
 
@@ -103,17 +103,17 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > 30s_wait
 
-> Activating Wrist Stretching Module. 2 minute timer. Straighten your posture, relax and take the stance.
+> Activating WRIST Stretching Module. 1 minute timer. Straighten your posture, relax and take the position.
 
 > Begin.
 
-> 2m_wait
+> 1m_wait
 
 > Module complete. Gather the energy (yoga triangle pose).
 
 > 30s_wait
 
-> Activating Arm Side Stretching Module. 1 minute timer. Straighten your posture, relax and take the stance.
+> Activating ARM Side Stretching Module. 1 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
 
@@ -123,7 +123,7 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > 30s_wait
 
-> Activating Shoulder Circling Module. 2 minute timer. Straighten your posture, relax and take the stance.
+> Activating SHOULDER Circling Module. 2 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
 
@@ -133,58 +133,59 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 
 > 1m_wait
 
+> Module complete. Gather the energy (yoga triangle pose).
 
-> Module complete. 
+> 30s_wait
 
-> Activating Arm Side Stretching Module. 1 minute timer. Straighten your posture, relax and take the stance.
-
-> Begin.
-
-> 1m_wait
-
-> Module complete. Nailed it. Activating T Balance Right Module. 1 minute timer. Straighten your posture, relax and take the stance.
+> Activating Arm Side Stretching Module. 1 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
 
 > 1m_wait
 
-> Module complete. Let's switch. Activating T Balance Left Module. 1 minute timer. Straighten your posture, relax and take the stance.
+> Module complete. Nailed it. Activating T Balance Right Module. 1 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
 
 > 1m_wait
 
-> Module complete. Nicely done. Activating V-Bending Module. 4 minute timer. Straighten your posture, relax and take the stance.
+> Module complete. Let's switch. Activating T Balance Left Module. 1 minute timer. Straighten your posture, relax and assume the position.
+
+> Begin.
+
+> 1m_wait
+
+> Module complete. Nicely done. Activating V-Bending Module. 4 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
 
 > 4m_wait
 
-> Module complete. Time to walk the plank. Activating Planking Module. 4 minute timer. Straighten your posture, relax and take the stance.
+> Module complete. Time to walk the plank. Activating Planking Module. 4 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
 
 > 4m_wait
 
-> Module complete. Let's move to the sides. Activating Side-planking Module Right. 4 minute timer. Straighten your posture, relax and take the stance.
+> Module complete. Let's move to the sides. Activating Side-planking Module Right. 4 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
 
 > 4m_wait
 
-> Module complete. Off to the other. Activating Side-planking Module Left. 4 minute timer. Straighten your posture, relax and take the stance.
+> Module complete. Off to the other. Activating Side-planking Module Left. 4 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
 
 > 4m_wait
 
-> Module complete. Activating Pushups Module. 2 minute timer. Straighten your posture, relax and take the stance.
+> Module complete. Activating Pushups Module. 2 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
 
 > 2m_wait
 
-> Physical Training Program complete. Great effort Operative.
+> Physical Training Program complete. Serotonin intake complete. Great effort Operative. 
 
 UNDER CONSTRUCTION_
 
