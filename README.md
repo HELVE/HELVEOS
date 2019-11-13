@@ -217,7 +217,7 @@ V-BENDING
 
 > 3m_wait
 
-> Module complete. Focus the energy (yoga triangle pose).
+> Module complete. Focus the energy (yoga triangle pose) and drink water.
 
 > 30s_wait
 
