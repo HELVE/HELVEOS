@@ -85,7 +85,7 @@ PREPARATION
 
 > 5s_wait
 
-> Phase 1 Physical Training Program active. Initiating serotonine intake. Prepare the tools, relax and focus your anima.
+> Phase 1 Physical Training Program active. Initiating serotonine intake. Prepare the tools, drink water, relax and focus your anima.
 
 > 30s_wait
 
