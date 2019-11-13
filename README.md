@@ -181,7 +181,7 @@ LEG STRETCH
 
 > 1m_wait
 
-> Module complete. Nailed it. Focus the energy (yoga triangle pose).
+> Module complete. Nailed it. Focus the energy (yoga triangle pose) and drink water.
 
 > 30s_wait
 
