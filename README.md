@@ -253,7 +253,7 @@ SIDE PLANKING LEFT
 
 > 1m_wait
 
-> Module complete. 
+> Module complete. Focus the energy (yoga triangle pose) and hydrate.
 
 PUSHUPS
 
