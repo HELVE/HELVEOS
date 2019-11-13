@@ -181,7 +181,7 @@ LEG STRETCH
 
 > 1m_wait
 
-> Module complete. Nailed it. Focus the energy (yoga triangle pose) and drink water.
+> Module complete. Nailed it. Focus the energy (yoga triangle pose) and hydrate.
 
 > 30s_wait
 
@@ -205,7 +205,7 @@ T BALANCE LEFT
 
 > 1m_wait
 
-> Module complete. Focus the energy (yoga triangle pose) and drink water.
+> Module complete. Focus the energy (yoga triangle pose) and hydrate.
 
 > 30s_wait
 
@@ -217,7 +217,7 @@ V-BENDING
 
 > 3m_wait
 
-> Module complete. Focus the energy (yoga triangle pose) and drink water.
+> Module complete. Focus the energy (yoga triangle pose) and hydrate.
 
 > 30s_wait
 
