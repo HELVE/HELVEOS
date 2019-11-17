@@ -138,9 +138,9 @@ SWING STRETCHING - DOG/DOLPHIN POSITION
 > 2m_wait
 ```
 > Module complete. Good job. Focus the energy (yoga triangle pose).
-
+```
 > 30s_wait
-
+```
 SHOULDER STRETCH
 
 > Activating SHOULDER Circling Module. 2 minute timer. Straighten your posture, relax and assume the position.
