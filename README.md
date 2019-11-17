@@ -98,9 +98,9 @@ BREATHING
 > Activating Diaphragm Breathing Module. 2 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
-
+```
 > 2m_wait
-
+```
 > Module complete. Well done. Focus the energy (yoga triangle pose).
 ```
 > 30s_wait
