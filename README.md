@@ -202,9 +202,9 @@ T BALANCE LEFT
 > Let's switch. Activating T Balance Left Module. 1 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
-
+```
 > 1m_wait
-
+```
 > Module complete. Focus the energy (yoga triangle pose) and hydrate.
 
 > 30s_wait
