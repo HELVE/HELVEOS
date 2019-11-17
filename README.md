@@ -242,9 +242,9 @@ SIDE PLANKING RIGHT
 > 1m_wait
 ```
 > Module complete. Focus the energy (yoga triangle pose).
-
+```
 > 30s_wait
-
+```
 SIDE PLANKING LEFT
 
 > Off to the other side. Activating Side-planking Module Left. 1 minute timer. Straighten your posture, relax and assume the position.
@@ -260,9 +260,9 @@ PUSHUPS
 > Activating Pushups Module. 1 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
-
+```
 > 1m_wait
-
+```
 > Physical Training Program complete. Serotonin intake complete. Great effort Operative. 
 
 **PSYOPS: Computer, initiate medbay [INCOMPLETE] < FOCUS**
