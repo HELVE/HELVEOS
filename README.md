@@ -166,9 +166,9 @@ NECK STRETCH
 > 1m_wait
 ```
 > Switch direction.
-
+```
 > 1m_wait
-
+```
 > Module complete. Focus the energy (yoga triangle pose).
 
 > 30s_wait
