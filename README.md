@@ -146,9 +146,9 @@ SHOULDER STRETCH
 > Activating SHOULDER Circling Module. 2 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
-
+```
 > 1m_wait
-
+```
 > Switch direction.
 
 > 1m_wait
