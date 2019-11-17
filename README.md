@@ -102,9 +102,9 @@ BREATHING
 > 2m_wait
 
 > Module complete. Well done. Focus the energy (yoga triangle pose).
-
+```
 > 30s_wait
-
+```
 WRIST STRETCH
 
 > Activating WRIST Stretching Module. 1 minute timer. Straighten your posture, relax and take the position.
