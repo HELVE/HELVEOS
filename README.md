@@ -114,17 +114,17 @@ WRIST STRETCH
 > 1m_wait
 
 > Module complete. Focus the energy (yoga triangle pose).
-
+```
 > 30s_wait
-
+```
 ARM STRETCH
 
 > Activating ARM Side Stretching Module. 1 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
-
+```
 > 1m_wait
-
+```
 > Module complete. Good job. Focus the energy (yoga triangle pose).
 
 > 30s_wait
