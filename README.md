@@ -86,9 +86,9 @@ PREPARATION
 > 5s_wait
 ```
 > Phase 1 Physical Training Program active. Initiating serotonine intake. Prepare the tools, hydrate, relax and focus your anima.
-
+```
 > 1m_wait
-
+```
 > Let us commence with preparation and stretching. First focus the energy (yoga triangle pose).
 
 > 30s_wait
