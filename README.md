@@ -206,17 +206,17 @@ T BALANCE LEFT
 > 1m_wait
 ```
 > Module complete. Focus the energy (yoga triangle pose) and hydrate.
-
+```
 > 30s_wait
-
+```
 V-BENDING
 
 > Nicely done. Activating V-Bending Module. 3 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
-
+```
 > 3m_wait
-
+```
 > Module complete. Focus the energy (yoga triangle pose) and hydrate.
 
 > 30s_wait
