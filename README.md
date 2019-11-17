@@ -317,21 +317,21 @@ PC lights up and animated Helve AVR logo appears on screen.
 Reference: Youper AI / Replika AI?
 
 > Ready for Phase 2 Grounding Program?
-
+```
 > 5s_wait
-
+```
 > Phase 2 Grounding Program active. Let's ground you for a good start of the day, shall we?.
 
 > What's your latest accomplishment?
-
+```
 > 10s_wait
-
+```
 > Well done Operative Mothnode, keep going. Remember, it's about the process not the goal. 
 
 > Initiating Phase 2 Grounding Program. Please standby.
-
+```
 > 5s_wait
-
+```
 - **TECHMEDITATION MODULE** [OPTIONAL MODULE]
 
 > Initiating Techmeditation Module. Loading animalistic and core drive atunement variables. Standby to achieve balance.”
