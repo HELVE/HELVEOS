@@ -238,9 +238,9 @@ SIDE PLANKING RIGHT
 > Let's move to the sides. Activating Side-planking Module Right. 1 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
-
+```
 > 1m_wait
-
+```
 > Module complete. Focus the energy (yoga triangle pose).
 
 > 30s_wait
@@ -250,9 +250,9 @@ SIDE PLANKING LEFT
 > Off to the other side. Activating Side-planking Module Left. 1 minute timer. Straighten your posture, relax and assume the position.
 
 > Begin.
-
+```
 > 1m_wait
-
+```
 > Module complete. Focus the energy (yoga triangle pose) and hydrate.
 
 PUSHUPS
