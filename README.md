@@ -90,9 +90,9 @@ PREPARATION
 > 1m_wait
 ```
 > Let us commence with preparation and stretching. First focus the energy (yoga triangle pose).
-
+```
 > 30s_wait
-
+```
 BREATHING
 
 > Activating Diaphragm Breathing Module. 2 minute timer. Straighten your posture, relax and assume the position.
