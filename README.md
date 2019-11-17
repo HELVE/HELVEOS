@@ -74,17 +74,17 @@ Operative Mothnode, here is today's progress timeline data. Please standby.
 > Report Weather.
 
 > Read today's Calendar.
-
+```
 > 10s_wait
-
+```
 **PSYOPS: Computer, initiate physical training program [35MIN?] [COMPLETE]**
 
 PREPARATION
 
 > Ready for Phase 1 Physical Training Program?
-
+```
 > 5s_wait
-
+```
 > Phase 1 Physical Training Program active. Initiating serotonine intake. Prepare the tools, hydrate, relax and focus your anima.
 
 > 1m_wait
