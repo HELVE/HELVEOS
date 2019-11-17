@@ -154,9 +154,9 @@ SHOULDER STRETCH
 > 1m_wait
 ```
 > Module complete. Focus the energy (yoga triangle pose).
-
+```
 > 30s_wait
-
+```
 NECK STRETCH
 
 > Activating NECK Circling Module. 2 minute timer. Straighten your posture, relax and assume the position.
